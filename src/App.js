@@ -5,6 +5,7 @@ import {
   Routes,
   Route
 } from "react-router-dom";
+import Login from './screens/Login';
 
 function App() {
   return (
@@ -12,10 +13,10 @@ function App() {
       <div>
         <Routes>
           <Route exact path="/" element={<Home/>}/>
+          <Route exact path="/login" element={<Login/>}/>
         </Routes>
       </div>
     </Router>
   );
 }
-
 export default App;
