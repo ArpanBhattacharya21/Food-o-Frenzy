@@ -4,10 +4,10 @@ import {Link} from 'react-router-dom'
 export default function Navbar() {
   return (
     <div>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-success">
         <div class="container-fluid">
-          <Link class="navbar-brand" to="#">
-            Navbar
+          <Link class="navbar-brand fs-3 fst-italic" to="#">
+            Food-o-Frenzy
           </Link>
           <button
             class="navbar-toggler"
@@ -28,23 +28,8 @@ export default function Navbar() {
                 </Link>
               </li>
               <li class="nav-item">
-                <Link class="nav-link" to="#">
-                  Features
-                </Link>
-              </li>
-              <li class="nav-item">
-                <Link class="nav-link" to="#">
-                  Pricing
-                </Link>
-              </li>
-              <li class="nav-item">
-                <Link
-                  class="nav-link disabled"
-                  to="#"
-                  tabindex="-1"
-                  aria-disabled="true"
-                >
-                  Disabled
+                <Link class="nav-link" to="/login">
+                  Login
                 </Link>
               </li>
             </ul>
