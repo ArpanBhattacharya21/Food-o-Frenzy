@@ -8,7 +8,7 @@ export default function Card() {
           className="card mt-3"
           style={{ width: "18rem", maxHeight: "360px" }}
         >
-          <img src="..." className="card-img-top" alt="..." />
+          <img src="https://media.istockphoto.com/id/629341696/photo/chilli-paneer-tikka-or-paneer-kabab.jpg?s=1024x1024&w=is&k=20&c=vk3Jjoufev_yEQS7JHJ83RYGN1fO2D0SGAdzltnFpLc=" className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">Card title</h5>
             <p className="card-text">This is some important text!</p>
