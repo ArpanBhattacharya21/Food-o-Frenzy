@@ -7,7 +7,7 @@ const mongoDB =async()=>{
     await mongoose.connect(mongoURI)
     .then(() => console.log("DB Connected to Express Successfully!!"))
     .catch((err) => {
-        console.error;
+        console.log(err);
     });
 }
 
