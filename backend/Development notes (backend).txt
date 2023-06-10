@@ -27,3 +27,10 @@ Some commands needs to be modified as per my research:
 hey same error I also get so better to downgrade a version of mongoose and then your waiting error  is gone 
 npm uninstall mongoose
 npm install mongoose@6.10.0
+---------------------------------------------------------------------------------------------------
+=>=> express-validator
+      install 6.14.0 version (npm install --save express-validator@6.14.0)
+-------------------------------------------------------------------------
+MONGODB Version (Connection) --> 2.2.12
+RAW: mongodb://foodofrenzy:<password>@ac-lmffe97-shard-00-00.qeidlvm.mongodb.net:27017,ac-lmffe97-shard-00-01.qeidlvm.mongodb.net:27017,ac-lmffe97-shard-00-02.qeidlvm.mongodb.net:27017/?ssl=true&replicaSet=atlas-a4t3g9-shard-0&authSource=admin&retryWrites=true&w=majority
+MODIFIED: mongodb://foodofrenzy:aran1521@ac-lmffe97-shard-00-00.qeidlvm.mongodb.net:27017,ac-lmffe97-shard-00-01.qeidlvm.mongodb.net:27017,ac-lmffe97-shard-00-02.qeidlvm.mongodb.net:27017/foodofrenzy?ssl=true&replicaSet=atlas-a4t3g9-shard-0&authSource=admin&retryWrites=true&w=majority
