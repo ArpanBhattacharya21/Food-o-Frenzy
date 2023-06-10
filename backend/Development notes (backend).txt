@@ -1,0 +1,11 @@
+Some commands needs to be modified as per my research:
+
+-> To create package.json file:
+            npm init
+            
+-> TO start nodemon:
+                npx nodemon .\index.js
+            instead of nodemon .\index.js
+
+-> Remove '/' from /node_modules in .gitignore file
+-> npm install express nodemon mongoose
