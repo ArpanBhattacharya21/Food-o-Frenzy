@@ -9,3 +9,21 @@ Some commands needs to be modified as per my research:
 
 -> Remove '/' from /node_modules in .gitignore file
 -> npm install express nodemon mongoose
+-> New fetching items from database code 
+    const mongoDB = async () => {
+    try {
+      await mongoose.connect(mongoURI);
+      console.log('Connected!');
+      let fetched_data = mongoose.connection.db.collection("food_items");
+      let data=await fetched_data.find({}).toArray() 
+      console.log(data);
+    } catch (error) {
+      console.log('err: ', error);
+    }
+  };
+---------------------------------------------------------------------------------------------------
+=>=> Mongoose import issue
+
+hey same error I also get so better to downgrade a version of mongoose and then your waiting error  is gone 
+npm uninstall mongoose
+npm install mongoose@6.10.0
