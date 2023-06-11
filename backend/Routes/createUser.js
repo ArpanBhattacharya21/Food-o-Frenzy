@@ -5,10 +5,14 @@ const { body, validationResult } = require("express-validator");
 
 const bcrypt=require("bcryptjs");
 
-router.post("/createuser",
-  body("email",'Invalid Email').isEmail(),
-  body("name","Name is less than 3 characters!").isLength({ min: 3 }),
-  body("password",'Password Length too short!').isLength({ min: 5 }),
+
+router.post(
+  "/createuser",
+  [
+    body("email", "Invalid Email").isEmail(),
+    body("name", "Name is less than 3 characters!").isLength({ min: 3 }),
+    body("password", "Password Length too short!").isLength({ min: 5 }),
+  ],
   async (req, res) => {
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
@@ -25,6 +29,39 @@ router.post("/createuser",
         location: req.body.location,
       });
       res.json({ success: true });
+    } catch (error) {
+      console.log(error);
+      res.json({ success: false });
+    }
+  }
+);
+
+router.post(
+  "/loginuser",
+  [
+    body("email", "Invalid Email").isEmail(),
+    body("password", "Password Length too short!").isLength({ min: 5 }),
+  ],
+  async (req, res) => {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ errors: errors.array() });
+    }
+
+    let email = req.body.email;
+    try {
+      let userData = await User.findOne({ email });
+      if (!userData) {
+        return res
+          .status(400)
+          .json({ errors: "Login with correct credentials!" });
+      }
+
+      if (req.body.password !== userData.password) {
+        return res.status(400).json({ errors: "Incorrect password!!" });
+      }
+
+      return res.json({ success: true });
     } catch (error) {
       console.log(error);
       res.json({ success: false });
