@@ -34,3 +34,6 @@ npm install mongoose@6.10.0
 MONGODB Version (Connection) --> 2.2.12
 RAW: mongodb://foodofrenzy:<password>@ac-lmffe97-shard-00-00.qeidlvm.mongodb.net:27017,ac-lmffe97-shard-00-01.qeidlvm.mongodb.net:27017,ac-lmffe97-shard-00-02.qeidlvm.mongodb.net:27017/?ssl=true&replicaSet=atlas-a4t3g9-shard-0&authSource=admin&retryWrites=true&w=majority
 MODIFIED: mongodb://foodofrenzy:aran1521@ac-lmffe97-shard-00-00.qeidlvm.mongodb.net:27017,ac-lmffe97-shard-00-01.qeidlvm.mongodb.net:27017,ac-lmffe97-shard-00-02.qeidlvm.mongodb.net:27017/foodofrenzy?ssl=true&replicaSet=atlas-a4t3g9-shard-0&authSource=admin&retryWrites=true&w=majority
+--------------------------------------------------------------------------
+=>bcrypt installation
+npm i bcryptjs jsonwebtoken
