@@ -6,7 +6,7 @@ export default function Navbar() {
   const navigate = useNavigate();
   const handleLogout = ()=>{
     localStorage.removeItem("authToken");
-    navigate("/login");
+    navigate("/");
   }
 
   return (
@@ -17,8 +17,7 @@ export default function Navbar() {
             Food-o-Frenzy
           </Link>
           <button
-            class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"
-          >
+            class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
@@ -32,7 +31,7 @@ export default function Navbar() {
                 </li>
               : ""}
             </ul>
-            {(!localStorage.getItem("authToken"))?
+            {(!localStorage.getItem("authToken")) ?
             <div className="d-flex">
                 <Link className="btn bg-white text-success mx-1" to="/login">Login</Link>
                 <Link className="btn bg-white text-success mx-1" to="/createuser">SignUp</Link>
