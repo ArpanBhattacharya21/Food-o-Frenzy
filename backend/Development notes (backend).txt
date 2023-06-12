@@ -37,3 +37,27 @@ MODIFIED: mongodb://foodofrenzy:aran1521@ac-lmffe97-shard-00-00.qeidlvm.mongodb.
 --------------------------------------------------------------------------
 =>bcrypt installation
 npm i bcryptjs jsonwebtoken
+---------------------------------------------------------------------------------
+
+            @ArpanBhattacharya21 LIMINARY TESSTING --> DB ADMIN MGT
+            Test for dynamic data changing as part of CRUD.
+            code for same:
+            ###################################
+                // DBA Testing analysis
+                                const extract = (food_items, ...keys) => {
+                                    const newObject = Object.assign({});
+                                    Object.keys(food_items).forEach((key) => {
+                                       if(keys.includes(key)){
+                                          newObject[key] = food_items[key];
+                                          delete food_items[key];
+                                       };
+                                    });
+                                    return newObject;
+                                 };
+
+                                 console.log(extract(food_items, 'name', 'description'));
+                                    console.log(food_items);
+            #######################################
+        CONDUCTED ON: 12-06-2023
+
+@ananyasethh
