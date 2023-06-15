@@ -8,9 +8,9 @@ export default function () {
           id="carouselExampleFade"
           className="carousel slide carousel-fade"
           data-bs-ride="carousel"
-          //style={{ objectFit: "contain !important" }}            ## //NOT WORKING so commented
+          style={{ objectFit: "cover" }}            //NOT WORKING so commented
         >
-          <div className="carousel-inner" id="carousel">
+          <div className="carousel-inner" id="carousel" style={{minHeight:"300px"}}>
             <div className="carousel-caption" style={{ zIndex: "10" }}>
               <form className="d-flex">
                 <input
