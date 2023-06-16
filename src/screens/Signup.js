@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-
+import Navbar from '../components/Navbar';
 export default function Signup() {
     const [credentials, setcredentials] = useState({name:"",email:"",password:"",geolocation:""})
     let navigate = useNavigate()
@@ -33,11 +33,17 @@ export default function Signup() {
 
   const onChange=(event)=>{
         setcredentials({...credentials,[event.target.name]:event.target.value})
-  }  
+  } 
+  
+  //Designing part - FrontEnd
   return (
-    <>
+    <div style={{backgroundImage: 'url("https://images.pexels.com/photos/1565982/pexels-photo-1565982.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")', backgroundSize: 'cover',height: '100vh'}}>
+      <div>
+        <Navbar />
+      </div>
+
     <div className='container'>
-      <form onSubmit={handleSubmit}>
+      <form className='w-50 m-auto mt-5 border bg-dark bg-opacity-75 border-success rounded' onSubmit={handleSubmit}>
       <div className="mb-3">
           <label htmlFor="name" className="form-label"> Name </label>
           <input type="text" className="form-control" name='name' value={credentials.name} onChange={onChange} id="name"/>
@@ -63,6 +69,6 @@ export default function Signup() {
         <Link to="/login" className='m-3 btn btn-danger'>Already a user?</Link>
       </form>
       </div>
-    </>
+    </div>
   );
 }
