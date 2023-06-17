@@ -5,7 +5,24 @@ const CartDispatchContext = createContext();
 
 const reducer = (state, action) => {
   switch (action.type) {
+    case "INIT": 
+    return JSON.parse(localStorage.getItem("cart_item") ?? "{}")?.cart || []
     case "ADD":
+    localStorage.setItem("cart_item", JSON.stringify(
+      {
+        cart: [
+          ...state,
+          {
+            id: action.id,
+            name: action.name,
+            qty: action.qty,
+            size: action.size,
+            price: action.price,
+            img: action.img
+          },
+        ]
+      }
+    ))
       return [
         ...state,
         {
@@ -21,6 +38,12 @@ const reducer = (state, action) => {
     case "REMOVE":
         let newArr = [...state]
         newArr.splice(action.index, 1)
+
+        localStorage.setItem("cart_item", JSON.stringify(
+          {
+            cart: newArr
+          }
+        ))
         return newArr;
 
     case "UPDATE":
@@ -32,9 +55,20 @@ const reducer = (state, action) => {
           }
           //return arr
         })
+        localStorage.setItem("cart_item", JSON.stringify(
+          {
+            cart: arr
+          }
+        ))
           return arr
     case "DROP":
+
         let empArray = []
+        localStorage.setItem("cart_item", JSON.stringify(
+          {
+            cart: empArray
+          }
+        ))
         return empArray
         
     default:
@@ -54,4 +88,5 @@ export const CartProvider = ({ children }) => {
 };
 
 export const useCart = () => useContext(CartStateContext);
+
 export const useDispatchCart = () => useContext(CartDispatchContext);
