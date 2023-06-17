@@ -19,7 +19,8 @@ export default function Cart() {
   const handleCheckOut = async () => {
     
         // const {data:{key}}=await api.getRazorpayKey();
-        const key = "rzp_test_1DP5mmOlF5G5ag";  //test_key
+        //const key = "rzp_test_1DP5mmOlF5G5ag";  //test_key
+        const key = "rzp_test_Ohr4hbU205nQNl";  //test_key
         let userEmail = localStorage.getItem("userEmail");
         const options = {
           key: key,
