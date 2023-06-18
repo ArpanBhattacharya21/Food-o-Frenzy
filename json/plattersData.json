@@ -1,0 +1,101 @@
+[
+    {
+        "CategoryName": "Platter",
+        "name": "Veg Thali",
+        "img": "https://lh3.googleusercontent.com/X7OwZ5Zy0tV0uwYXgH685fouevnAg9i9CqKQTTm53q9XHKe8wRxvJx8_L6NXy0QaIArexrJyeL5RiLJu7GWylUEwTLXvAadZKYLPeZk=w512-rw",
+        "options": [
+            {
+                "Full": "100"
+            }
+        ],
+        "description": "Dal Makhani/Dal Tadka+Shahi Paneer/Kadai Paneer+2 Baby Lachha/2 Baby Naan+Rice +Raita+Chutney+Lachha Onion"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Non Veg Thali",
+        "img": "https://lh3.googleusercontent.com/RbFEVEZQ79snq8ZfhRtNx4aJZuhJRFF9ac7vnZ8ZGnoNERH55KY-Fxac8rccek0cNZmF1N4v-cu-cmpwyqhEnY2jBWZ-68jlzD0MoUib=w512-rw",
+        "options": [
+            {
+                "Full": "250"
+            }
+        ],
+        "description": "Butter Chicken/Kadai Chicken+Dal Makhani/Dal Tadka+2 Baby Lachha/2 Baby Naan+Rice+Raita+Chutney+Lachha Onion"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Tandoori Veg Platter",
+        "img": "https://lh3.googleusercontent.com/KrVAPeYJYt3ysUsg9Ad_SmrZpQKvfmtiseYleidHgCcZOzxHIeQJObFdqd3wKi2YxY38Q1qJEbW2KpQsAqZHjVijiz610igZqCuxR7NF=w512-rw",
+        "options": [
+            {
+                "Full": "150"
+            }
+        ],
+        "description": "Paneer Tikka [2 Pieces]+Malai Paneer Tikka [2 Pieces]+Soya Chaap Tandoori [2 Pieces]+Mushroom Tikka+2 Tandoori Roti"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Non Veg Tandoori Platter",
+        "img": "https://lh3.googleusercontent.com/xzN-zqc_08PAh0iqP67ZUXD8yZC4mxR-ZrOg0w5FuGRHWkhVjqvlDL-Z8QQXOkZrWUvVirinrA4TX2RcK9uLJhVehGKNSRKQJCx7SH0y=w512-rw",
+        "options": [
+            {
+                "Full": "300"
+            }
+        ],
+        "description": "Chicken Tikka [2 Pieces]+Malai Tikka [2 Pieces]+Fish Tikka [2 Pieces]+Seekh Kabab [2 Pieces]+2 Rumali roti"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Chinese Non Veg Platter",
+        "img": "https://lh3.googleusercontent.com/p0IqM0yrcPgsH6Q91rc_mJEnSAzcpb8IdtwsslbxyhvxKAQ1Ski_JpB-XktOiTVfMHRvmiRK4uuBOLr7ZYdoSNMTOzuAFf9zSUp4Uan1TA=w512-rw",
+        "options": [
+            {
+                "Full": "280"
+            }
+        ],
+        "description": "Chicken Manchurian Gravy+Chicken Hakka Noddles+Chicken Spring Roll+Chicken Fried Momos [2 Pieces]+Chilli Potato"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Chinese Veg Platter",
+        "img": "https://lh3.googleusercontent.com/YKOiAyCnVdgoEF46VbWxGwfP_2NIOV_HaoLJmxUvZ0g-O1C9JKMzNlxx1GwLSSUlr-3abnebo2kDL0wUCIiHBIKGK3YhC-Sdu7rNikpGFQ=w512-rw",
+        "options": [
+            {
+                "Full": "120"
+            }
+        ],
+        "description": "Veg Manchurian Gravy+Veg Noodles+Veg Fried Momos [2 Pieces]+Veg Spring Roll [2 Pieces]+Chilli Potato"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Veg Lachha Paratha Thali",
+        "img": "https://lh3.googleusercontent.com/EVyAMI24mzQy96xG0Gk1DbDXiZkb_dZy6yiAZVl526jybn0zG7Lj-iVY5U0Dt61ecwim1SWe_syHRwN_Ly2JcMcrWxQUK6yAwBHFDHID=w512-rw",
+        "options": [
+            {
+                "Full": "180"
+            }
+        ],
+        "description": "Shahi Paneer+Dal Makhani+Rice+2 Butter Tawa Lachha Paratha+Salad+Boondi Raita"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Non Veg Lachha Paratha Thali",
+        "img": "https://lh3.googleusercontent.com/Txq857mgVleWeCwi8lVHDHSOeU3liOnCa4kyRZxgSA0oNmpSPTBZCVJTg3Yc1lu1xMKDP32HElo51XdFs1BmR5cMxRjZCrcz_GZF1jey=w512-rw",
+        "options": [
+            {
+                "Full": "280"
+            }
+        ],
+        "description": "Butter Chicken+Dal Makhani+Rice+2 Butter Tawa Lachha Paratha+Salad+Boondi Raita"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Kadhai Chicken Thali",
+        "img": "https://lh3.googleusercontent.com/QUbFsZkFEdS5iLP_pU-KG8mvKaZn7RJS9xC1JUX4pHYwSDUAGeGKPhnLOzH1VOyxNh7kY-keWprEvzsqjQkD4Iaf-Rye67S610vdIaDR",
+        "options": [
+            {
+                "Full": "300"
+            }
+        ],
+        "description": "Kadhai Chicken+Dal Makhani+Rice+2 Butter Tawa Lachha Paratha+Salad+Raita+Pickle"
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Belgian Chocolate Milk Waffle",
+        "img": "https://lh3.googleusercontent.com/jGaVv-23xru-KznCivHv_52KAW417nJ17MJaaj7BCifInZOriP9USZtLtBtGUdrM9vYTewBbugRM62WKwBdOVWuu3tYZU5BIzY9t4N6m=w512-rw",
+        "options": [
+            {
+                "Full": "150"
+            }
+        ],
+        "description": "Classic Crispy Waffle + Melted Belgian Milk Chocolate. Simplicity At Its Best!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Chocolate Overload Dark Waffle",
+        "img": "https://lh3.googleusercontent.com/wrxMpBkphYwV21mNO_mGByC8kb9eQJRNR1pVnBpHuPmwJofAaNveALWf32aJVRjpxs_KmZIYXPZG_1UyiVM3MFedis_nzkjJhyKpECUc=w512-rw",
+        "options": [
+            {
+                "Full": "160"
+            }
+        ],
+        "description": "Signature Dark Chocolate Waffle + Melted Belgian Dark Chocolate. Double The Chocolate!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Triple Cookie",
+        "img": "https://s3.ap-south-1.amazonaws.com/shopnowchat.com/Medium/637925362685474708_TripleCookieWaffle.jpg",
+        "options": [
+            {
+                "Full": "100"
+            }
+        ],
+        "description": "Original Red Velvet Waffle + A Divine Combination Of Biscoff, Oreo And KitKat Bits In Melted White Chocolate And Vanilla Ice Cream. A Must Try Symphony Of Flavours And Textures."
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Death by Chocolate Waffle Cake",
+        "img": "https://lh3.googleusercontent.com/4_oIBkPM7vUIfHkvSkzI5H8XDK3OuP20SOc1FPz2tfuWkaQsxuJpxUpxkW_IlYpJLonTxIe-6LhLfNE--XQDxN9qbY-s2tkhv0OeGgx7vw",
+        "options": [
+            {
+                "Full": "230"
+            }
+        ],
+        "description": "Signature dark chocolate single layer waffle cake layered with creamy White, Milk and Dark melted Belgian Chocolate. Triple the chocolate, triple the fun!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Blueberry Creamcheese Waffle",
+        "img": "https://lh3.googleusercontent.com/cxqOwh_chk9cohhbvHfgoPLu7_Zm3PIOM818j-vW6sUGT891OroH1D2BfIVYPpxThFvAvA-WQ2P_ya4lZizjcSc9AyVV_mhyZQzKZiE=w512-rw",
+        "options": [
+            {
+                "Full": "245"
+            }
+        ],
+        "description": "Classic Crispy Waffle + Blueberry Compote Layered With Philadelphia Style Cream Cheese."
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Kiki & Oreo Cream Waffle",
+        "img": "https://s3.ap-south-1.amazonaws.com/shopnowchat.com/Medium/637922886974992491_KikiAndOreoCreamWaffle.jpg",
+        "options": [
+            {
+                "Full": "250"
+            }
+        ],
+        "description": "Signature Black Velvet Waffle + Our Special Blue Filling with Cookie Crunchy Oreo Bits Filling. Kiki Do You Love Me?"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Red Velvet Waffle",
+        "img": "https://images.heb.com/is/image/HEBGrocery/recipe-hm-large/red-velvet-waffles-recipe.jpg",
+        "options": [
+            {
+                "Full": "265"
+            }
+        ],
+        "description": "Original Red Velvet Waffle + Philadelphia style cream cheese and melted Belgian white chocolate."
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "ALIVE BY CHOCOLATES Donut",
+        "img": "https://assets.limetray.com/assets/user_images/menus/compressed/1675853360_unhideDeathbyChocolate.jpg",
+        "options": [
+            {
+                "Full": "280"
+            }
+        ],
+        "description": "Layers of chocolate with dark chocolate coating on a donut, bringing all your chocolate cravings to life!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Cookie Delight Donut",
+        "img": "https://lh3.googleusercontent.com/1bVr80cs20EupyxSEQl77an-CrDbaiD9TqPQIvYdZ8vFFDpCsVa5-yKqACTEwaxYUYJmDS5AeFA31U478hLAXye3rYyc4QQ8bSHZa5c",
+        "options": [
+            {
+                "Full": "199"
+            }
+        ],
+        "description": "A perfect recipe to bring delight, adding chocolate cookies & colourful confetti to your donut!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Butterscotch Crumble Donut",
+        "img": "https://www.bigbasket.com/media/uploads/p/l/800466469_1-donut-house-donut-butterscotch.jpg",
+        "options": [
+            {
+                "Full": "180"
+            }
+        ],
+        "description": "Taste the distinctness of butterscotch with the abundance of crumbs spread wide over a rich chocolate donut!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Red Velvet Crunch Donut",
+        "img": "https://everafterinthewoods.com/wp-content/uploads/how-to-make-red-velvet-donuts.jpg",
+        "options": [
+            {
+                "Full": "230"
+            }
+        ],
+        "description": "https://everafterinthewoods.com/wp-content/uploads/how-to-make-red-velvet-donuts.jpg"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "RAINBOW POP Donut",
+        "img": "https://lh3.googleusercontent.com/lX9Qt0AtYTYJsMfTqieMPeI6rRoBaGv2zhEbYQKkYM8wuVAkJec0PIs2fbNCFEdC29u00_pJmNJFliJNx9BwrzUrqS8JWMDmLuUF2wgw",
+        "options": [
+            {
+                "Full": "199"
+            }
+        ],
+        "description": "Our soft donut, sprinkled with multi coloured sugar confetti! A rainbow for your sight!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Chocolate Frosted Donut",
+        "img": "https://lh3.googleusercontent.com/Q87aJt24Y_Spsf5_sfYjk8xB5yso23D6C7XtzB0HEdUE_gukJc45ROhWHKmk2rjOCrigIvZTW1-QSGqc9OvE2aj_8aaBFsfl1nzLqICw=w512-rw",
+        "options": [
+            {
+                "Full": "180"
+            }
+        ],
+        "description": "A Soft fluffy donut loaded with chocolate and a rich white chocolate icing on the top!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Black Forest Donut",
+        "img": "https://64.media.tumblr.com/5f67ead454123707c821a4454304f4a8/tumblr_ohmvilVfOe1qlcxsdo1_500.jpg",
+        "options": [
+            {
+                "Full": "175"
+            }
+        ],
+        "description": "A soft donut with tempting layers of chocolate decorated with whipped cream & cherry! An irrefutable affair!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Very Very Strawberry Donut",
+        "img": "https://lh3.googleusercontent.com/xsk1CDSBfjdahClEXuOzpS92OxtOi8nIbEB_2VF9ZlUDQU4nSmuFpQQyYQTp8_wfSIRdzQdwXZ0NKstXzGEDdnXmqzV2kuxYZBJpARLS",
+        "options": [
+            {
+                "Full": "170"
+            }
+        ],
+        "description": "Strawberry Flavoured chocolate donut with an irresistible strawberry centre!"
+    }
+    
+]

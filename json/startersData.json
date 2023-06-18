@@ -1,0 +1,157 @@
+[     
+    {
+        "CategoryName": "Starters",
+        "name": "Paneer Tikka",
+        "img": "https://lh3.googleusercontent.com/_8jCO73AhI7iXAdzWNZp5l-Xo1NkHhZ-gNltRFSDGuu9MiMmJcxtCq_2zixZG2dgzUJsoAW-ghGXGfgehV-vEUjdAo2SVby2Yp0AOL7K=w512-rw",
+        "options": [
+            {
+                "Half": "100",
+                "Full": "200"
+            }
+        ],
+        "description": "Cottage cheese, greek yogurt, bell pepper, garam masala, mustard oil"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Veg Seekh Kebab",
+        "img": "https://lh3.googleusercontent.com/M52_3t_hG87N6hWGCL5mmrgp8dqxyUJ_F_1AvzxeJT06k3YnU5NTMKkucHmo7I3PvcDCrEKxlDveeR5WVb0gIEbFdFTWtM-a6I_cAPGf=w512-rw",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "140"
+            }
+        ],
+        "description": "Matar, cabbage, beans, bread crumbs, garam masala powder"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Chilli Paneer",
+        "img": "https://lh3.googleusercontent.com/bQWtEcChMiARMqW1Y_6KK2ORivKTalV7-kLpzECiW3jvu4mW36OGmuODwu_kMld7Ncf999f4pchvOdKp_JmGyTNFj0UvWIO_WH7kaU4u",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "100"
+            }
+        ],
+        "description": "Paneer, soy sauce, spring onion, green bell pepper, chilli sauce"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Dahi Kabab",
+        "img": "https://lh3.googleusercontent.com/stxeyqtc6ATGrDN1hrtyEEP7FoLE-zPzX41yMSQBJWnFAJdJvHa3b6cp_oVW6ACJTJKgLC1udtiVULxwwGeFDPEaelT1o35mYJTuHMgu=w512-rw",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "120"
+            }
+        ],
+        "description": "Greek yogurt, garam masala, gram flour, ginger, white pepper"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Veg Manchurian",
+        "img": "https://lh3.googleusercontent.com/eYSvDDwc4jb-0OOA_rRu9oT7grrhmkQpH9Aw-u-YGKQK5vcg2tdiPbnwHcRUuikCWTCa_BwBpV-GHayuh46-OdPE-EzNGGuAFpZ1xIQ=w512-rw",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "100"
+            }
+        ],
+        "description": "Apple cider vinegar, chili sauce, cabbage, bell peppers, bread crumbs"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Honey Chilli Potato",
+        "img": "https://lh3.googleusercontent.com/Jtzbw_mjN9zg34YTfEOnRSMLJ95L9RNfhm60NtxHqiahAEkMeACwNQ6RQMXUx-7mj0__Ujyk19i4-nJ2oRjsOuhUZ1mi1Fwzy-RSFZ0=w512-rw",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ],
+        "description": "Crispy Honey Chilli Potatoes are a super addictive snack - fried chilli potato fingers are tossed in a sesame honey chilli sauce that's sweet and spicy and will give you sticky fingers that you'll be licking clean!"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Aloo Paratha",
+        "img": "https://lh3.googleusercontent.com/C_oYH3Ca9nL-PiiZDz5ZwMj3X-pbuc123ncDuL_UBkidLuFemRlTLo9CqONx4uEknzvSyTZR745Clf_9MNPD8VqAUHms1K6bMk67VxlU=w512-rw",
+        "options": [
+            {
+                "Half": "20",
+                "Full": "40"
+            }
+        ],
+        "description": "Whole wheat flour, paratha, potatoes, garam masala, mango pickle"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Onion Paratha",
+        "img": "https://lh3.googleusercontent.com/Tvwc6xI-IdXb_0LEiSe2tfpglQBaqHtuoIhS3Y4A5COwSy2kLH4KEROUZLLC-fnXKTxG6lFHs69wnFCh99Yh4U-AkFH-8V558gRCDYg=w512-rw",
+        "options": [
+            {
+                "Half": "30",
+                "Full": "50"
+            }
+        ],
+        "description": "Onion Paratha are delicious whole wheat flatbreads stuffed with piquant onions, spicy green chillies and savory spices."
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Paneer Paratha",
+        "img": "https://lh3.googleusercontent.com/sXbKe9hye0JmjSLkOKkuByvexyC32yyP1xUyCk7odsY9G_nNjDNVMt8dyfHuZ--dk8HU6r-u6fLrUJVoI7Oxco9bO4wmuDEhhWGLUppK=w512-rw",
+        "options": [
+            {
+                "Half": "35",
+                "Full": "60"
+            }
+        ],
+        "description": "Paneer Paratha is an unleavened wheat flatbread stuffed with paneer aka Indian cottage cheese, spices and herbs."
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Gobi Paratha",
+        "img": "https://lh3.googleusercontent.com/r0pPsh13F1HRbnlWyNeTIXwUTs5v2y03MJPSIdqiIdKGB9j2zxJzWzG2xbsKsfh9LWRk4sX-wSxUip82NZXctd9KoNs0sdDJbjkVQYA=w512-rw",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "60"
+            }
+        ],
+        "description": " Also known as Cauliflower paratha, these unleavened whole wheat flatbreads are stuffed with a savory, spiced grated cauliflower filling."
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Chicken Tikka",
+        "img": "https://lh3.googleusercontent.com/qFER2fcb0M7iIDoMOg9Kj78sSAIQ3Yg4NPwGoTCEA57csQiznZkREG9IqVI-vNB__41H_BIDk-Wk8WtVCaFoCCpZMUbXRZn_A7HhwBbZ=w512-rw",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "150"
+            }
+        ],
+        "description": "Small pieces of boneless chicken baked using skewers on a brazier called angeethi or over charcoal after marinating in Indian spices and dahi (yogurt)"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Chicken Seekh Kebab",
+        "img": "https://lh3.googleusercontent.com/aGllb6FLRdLk6U0yTi75we3km2PowkCZ-IEarYA85krtAfpVr-dmT25-oRpZpv0bEG8IBJGYhF6xLEWXo9nGBKcNVOA95SJYfg8d5Mhk=w512-rw",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "150"
+            }
+        ],
+        "description": "Ground chicken, garam masala, carrot, olive oil, lime juice"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Egg Tikki Burger",
+        "img": "https://lh3.googleusercontent.com/Urmsod8Y37raP3_JxEnjI9LgVsfvXfnZRNmLX3yz7MK-QvZMwdSa3qUo4LTzdY4pmtH3aA2dux8XrPGcE_XXz-woymySqC7ysPQpscY6=w512-rw",
+        "options": [
+            {
+                "Full": "90"
+            }
+        ],
+        "description": "An unusual burger stuffed with baked egg mixture."
+    }
+]
