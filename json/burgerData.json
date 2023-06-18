@@ -1,0 +1,101 @@
+[
+{
+    "CategoryName": "Burger",
+    "name": "Veg Maharaja Mac",
+    "img": "https://lh3.googleusercontent.com/voaaQGePjOSnkbH-CCKjo_zcVpC3wkljZ83dU0T8RygyjkXo1c4ZWMs5Xy1wHMyXbn2MDVRmlbyCP0adktZVwM4xlEM-uJI5-i0bC1sM=w512-rw",
+    "options": [
+        {
+            "Full": "100"
+        }
+    ],
+    "description": "Big Mac sesame seeds bun, with rich and crusty cheesy corn patty, topped with chunky vegetable-cocktail sauce served with pungent jalapeño slices, red onion slices, tomato slices, Cheddar cheese slice and crisp iceberg lettuce."
+},
+{
+    "CategoryName": "Burger",
+    "name": "Mixed Chicken Zinger Burger Doubles",
+    "img": "https://lh3.googleusercontent.com/UX4RYch4OJYVjdMdkHe4j27ajVqB2eXICNx-_PLH1ysP4jWB6A3jwc0cm3eQq0P7C1IZaaElFgT6SArGW_QNLhkrA-hw_GRJeDOPi4sXhQ=w512-rw",
+    "options": [
+        {
+            "Full": "250"
+        }
+    ],
+    "description": "Best-seller combo of classic chicken zinger & tandoori zinger."
+},
+{
+    "CategoryName": "Burger",
+    "name": "Veg Zinger",
+    "img": "https://lh3.googleusercontent.com/r-o8grHbQBTkz3rmGloLyp1ROLlLpDSEVRg91t0oUdI6fPDK8H0zWnX1_KCGvVeXbCDo_rPlOXDt3oESwW_m1fUDabmX5xHmThZZfh3AGQ=w512-rw",
+    "options": [
+        {
+            "Full": "90"
+        }
+    ],
+    "description": "Signature veg burger with crispy patties, veggies & a tangy sauce."
+},
+{
+    "CategoryName": "Burger",
+    "name": "Bingo Burger",
+    "img": "https://lh3.googleusercontent.com/RMwnhZj_mYSTm5PcDhyay7-2d7Zcz35nVjFmUnYJFg2JdYw-XnsCY6b8lsq-uFK3lu095IgGkn7t-ll7aqgExPMZ8UY=w512-rw",
+    "options": [
+        {
+            "Full": "120"
+        }
+    ],
+    "description": "100% Freshly Minced Lamb Patty, Pickles, Caramelized Onions, Sriracha Mayo, Natural Cheese Blend & Lettuce."
+},
+{
+    "CategoryName": "Burger",
+    "name": "Giza Burger",
+    "img": "https://lh3.googleusercontent.com/6z-jk3xnKoLzpDHQHB-sXT2Y15l_YnFUHdjpEgVip0Uvjkpig-a6YD38T3yvFLQSJykC0FHiADy0uU-k3tfXXiRDKAwN4nMZuP3Lhaul=w400-rw",
+    "options": [
+        {
+            "Full": "99"
+        }
+    ],
+    "description": "Crisp Potato & Cheese Patty, Fresh Tomatoes, Sriracha Mayo & Lettuce."
+},
+{
+    "CategoryName": "Burger",
+    "name": "Veg Snacker",
+    "img": "https://lh3.googleusercontent.com/0TfGEmv8riDEJxSJpcWv-88Q2LsvZ4If8sWSlqyt17Z2nBkasdwnulvSIf_3pE6Fo-DATbCBZ0mLprArAB5CtAcBY8nWLyNUur-dN5fv=w512-rw",
+    "options": [
+        {
+            "Full": "50"
+        }
+    ],
+    "description": "A scrumptious veggie patty topped with lettuce, onion, cheesy spread and Burger Singh's secret sauce!"
+},
+{
+    "CategoryName": "Burger",
+    "name": "Paneer Royale Burger",
+    "img": "https://lh3.googleusercontent.com/ItWN73gILNgIs2xfyxFf495BmjmNsoiCBe_SqzdNaAnMHIHTNBS0v9RwJCdhJBb3V_DSAn-dKq-CSjEG1OxDU4jRtvOJ3sPmcYw6eT1hWQ",
+    "options": [
+        {
+            "Full": "100"
+        }
+    ],
+    "description": "Thick Paneer Patty, loads of sauces in soft square masala buns. It's Royally Paneer."
+},
+{
+    "CategoryName": "Burger",
+    "name": "Crispy Veg Double Patty Burger",
+    "img": "https://lh3.googleusercontent.com/tbSgmyHlCvnLgP99ugT9T_1TYqWlOPZxYBaeMQh7AoAfsIPiEuYtL6b3nYAoIWk2_Db0MLhStC8zwrnmxtYa8fiZNjrwyzDMa8aTjtmRZw=w512-rw",
+    "options": [
+        {
+            "Full": "120"
+        }
+    ],
+    "description": "Our Best-Selling Burger With Crispy Veg Double Patty, Fresh Onion And Our Signature Sauce"
+},
+{
+    "CategoryName": "Burger",
+    "name": "Veg Surprise Burger",
+    "img": "https://lh3.googleusercontent.com/fBU8gKl_Fc_X4UPWF0aP4TTSl2n4aWp8NhcxFh4ZsimEo6YC3Wjo-PXtHPUCbKh7EyERkuuC0dIe_IyBnfWJqFdeEe92Mr4vnuNJyqW7",
+    "options": [
+        {
+            "Full": ""
+        }
+    ],
+    "description": "Juicy Vegetable Patty, layered in creamy mayo, chipotle, topped with fresh veggies, and a hidden surprise."
+}
+]

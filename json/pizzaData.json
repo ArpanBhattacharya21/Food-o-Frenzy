@@ -1,0 +1,197 @@
+[
+{
+    "CategoryName": "Pizza",
+    "name": "Naples - Margherita Pizza",
+    "img": "https://lh3.googleusercontent.com/ZU0o8fJsDVW9HYjQgCh_UZRQ0jQQ80PLAPfCWEqPWGiK7HOVgMSuGWtmAn6WdkOWu9t5AI9uKzMeMT8yAlzlFqNoWRnctPcQNvvoIXok0Q=w512-rw",
+    "options": [
+        {
+            "Regular": "200",
+            "Medium": "350",
+            "Large": "400"
+        }
+    ],
+    "description": "An Authentic Italian Naples Pizza Prepared with our signature pizza base & our classic house red pizza sauce with tomatoes, mozzarella, fresh basil & extra virgin olive oil."
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Veggie Supreme",
+    "img": "https://lh3.googleusercontent.com/JM8TU4QPvbAzZSf9_vhSCnAOxmtOewZG9N9w3cfeZF6gLfUHUPwKgSrxF9lHPNMf_7O01qkqZt9vipA7s7xO31HsI77EivJ_c8lry_yr",
+    "options": [
+        {
+            "Regular": "200",
+            "Medium": "350",
+            "Large": "400"
+        }
+    ],
+    "description": "A supreme combination of Black Olives, Green Capsicum, Mushroom, Onion, spicy Red Paprika & juicy Sweet Corn with flavourful pan sauce and 100% mozzarella cheese."
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Naples - Mixed Vegetables With Crumbled Feta Pizza",
+    "img": "https://lh3.googleusercontent.com/THjn14VHer2buToAY341zk7Qup-ABrpChletUWfJSx6N-hAUXVAw1gIHmYigCq7Zh0fRpquqwYSC-wL-5E-BUfoZc_P-NcRMNIqsDTPqnQ=w512-rw",
+    "options": [
+        {
+            "Regular": "200",
+            "Medium": "380",
+            "Large": "420"
+        }
+    ],
+    "description": "An Authentic Italian Naples Pizza Prepared with our signature pizza base & our classic house red pizza sauce with mozzarella grilled zucchini, mushroom, bell pepper, cherry tomato & crumbled feta."
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Margherita Pizza",
+    "img": "https://lh3.googleusercontent.com/UrnzR23ASEZNnmKsTmsvpFdgXprDmRswHQz8-ghgd8K-vbl4mC3_KxMv19F_2j2OkdGYf8goqk9JJvKCXh9uRASVrjPE-T8ROlBwbDra=w512-rw",
+    "options": [
+        {
+            "Regular": "120",
+            "Medium": "220",
+            "Large": "340"
+        }
+    ],
+    "description": "Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!"
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Chicken Sausage",
+    "img": "https://cdn.urbanpiper.com/media/bizmedia/2022/07/25/Double-Chicken-Sausage_468x432px.jpg",
+    "options": [
+        {
+            "Regular": "199",
+            "Medium": "329",
+            "Large": "400"
+        }
+    ],
+    "description": "Pizza topped with Chicken n Cheese Sausages & crunchy Onions, flavourful pan sauce and 100% mozzarella cheese."
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Spiced Paneer",
+    "img": "https://lh3.googleusercontent.com/p_9EEv7-YL_d3hTRAyU5KR-7Ei9ww0t12cIaVBfjgi6gJJR31HzptqEaT_3LHpGQUzD7tCVSU6eQ75r_W_OJpOMX5kiMbuM2jvN9tUz1Gg",
+    "options": [
+        {
+            "Regular": "150",
+            "Medium": "230",
+            "Large": "350"
+        }
+    ],
+    "description": "Light & crispy new San Francisco Style Crust, topped with Chef's special sauce and a drizzle of extra virgin olive oil."
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Schezwan Corn & Capsicum",
+    "img": "https://lh3.googleusercontent.com/MUnaV30adzWoKhKCwwOjix4y0oZUFq20rji0PYf_OZ9L-fjYcZZzYbw0ijq5cGZvXrbwmdVSCHWdxJFNjALVeNkIcwFBljf1llIClF4=w512-rw",
+    "options": [
+        {
+            "Regular": "210",
+            "Medium": "299",
+            "Large": "329"
+        }
+    ],
+    "description": "Personal Pizza topped with Spicy Schezwan sauce, sweet corn & crunchy capsicum and cheesy dressing"
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Mexican Fiesta",
+    "img": "https://lh3.googleusercontent.com/4dd_s9edtljXt2gVAoAUP1bTyRnkia0QonfYkt8-EuV0hCln9Jg0sPSwyQFMSwRUnc6PRUE4zlcdaLU5hisxI0u00yCTl_yvL14Olm7M8g=w512-rw",
+    "options": [
+        {
+            "Regular": "199",
+            "Medium": "289",
+            "Large": "329"
+        }
+    ],
+    "description": "Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and 100% mozzarella Cheese with a signature spice sprinkle & our flavourful pan sauce."
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Ultimate Tandoori Veggie",
+    "img": "https://lh3.googleusercontent.com/ImJWm5I2GWAGE-0KFbjNJ0mzcuZQ9qCrj2f5BuvSfLXviM2QFa8_EBELUo_t5eud2CQwBeXg1ub508Mtwv24IxfTvxNavOGwpSBhLLI=w512-rw",
+    "options": [
+        {
+            "Regular": "160",
+            "Medium": "200",
+            "Large": "280"
+        }
+    ],
+    "description": "An ultimate combination of your favourite veggies- onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with 100% mozzarella cheese & generous drizzle of mint mayo."
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Sausage & Sweet Corn",
+    "img": "https://lh3.googleusercontent.com/m-3nDYJ5ql4vfXYz1vlnSpvHAI7koIUnmEsRljpEUOtVAcTMgFjUuQVdf8yDnP-9WinZXomULBSkz8fd3PGd8yzzbd0_FpljjCDS49oL=w512-rw",
+    "options": [
+        {
+            "Regular": "200",
+            "Medium": "280",
+            "Large": "350"
+        }
+    ],
+    "description": "Our classic chicken & cheese sausage, juicy sweet corn and 100% mozzarella cheese with flavourful pan sauce."
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Dhabe Da Keema",
+    "img": "https://lh3.googleusercontent.com/5Pt2pDv8G3EohFXX8uLUFqPQnqlBlnxynvMehIwHdoqFc29zJ8w7gV6B9cD2xtrn1vEOp7dZuSuEvw6XwZxz22Sbz9ntB-TgKCrmoBjJ",
+    "options": [
+        {
+            "Regular": "120",
+            "Medium": "200",
+            "Large": "320"
+        }
+    ],
+    "description": "Dhaba style chicken keema masala, with green chiili, crunchy onion with flavourful pan sauce, 100 % mozzarella cheese & a generous drizzle of mint mayo."
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Sizzling Schezwan Chicken",
+    "img": "https://lh3.googleusercontent.com/Kyd90PjbQOaGPdGuFphyyMMmMArw-VX8AtE0BRnkrlo4aiZKEFvjiVAYctD3onI9weKBxICgfhiS4nGgCx-asQ4GspQsECy7ffsXt0Mf",
+    "options": [
+        {
+            "Regular": "200",
+            "Medium": "300",
+            "Large": "400"
+        }
+    ],
+    "description": "Loaded with our signature spicy schezwan sauce, juicy schezwan chicken meatballs & 100% mozzarella cheese."
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Nawabi Murg Makhni",
+    "img": "https://lh3.googleusercontent.com/LkHn2wY4TIjZ6EIrtZwbFT20SmTwBgP9hOh1JoP9Svqel8QcA0EkD6yTUijPuguyiPSWHmcjGxGcoqfqNzZc41F2nuxZ3keswtOhqpCH=w512-rw",
+    "options": [
+        {
+            "Regular": "180",
+            "Medium": "280",
+            "Large": "340"
+        }
+    ],
+    "description": "A chicken lovers delight ! Combination of chicken malai tikka, flavourful chicken keema masala, crunchy onion, juicy tomato on our new makhni sauce with 100% mozzarella cheese and buttery spice sprinkle."
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Cheezy Mushroom Magic",
+    "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/cheezy-mushroom-magic.40d9989d4e84c2d302a338da3dfa7140.1.jpg",
+    "options": [
+        {
+            "Regular": "150",
+            "Medium": "250",
+            "Large": "350"
+        }
+    ],
+    "description": "A new combination with creamy mushroom sauce, chunky black olives, spicy jalapeno, juicy sweet corn, mushroom and 100% mozzarella cheese with garlic sprinkle for extra flavour hit."
+},
+{
+    "CategoryName": "Pizza",
+    "name": "Country Feast",
+    "img": "https://lh3.googleusercontent.com/7CWxVUrnlpZutj_Boz040ONKnXQkLxDSkQlF73IPRlLWjJ4GvWQZ1-tYRdFTB_vWqmxWCFc1NBmQxyspy9FTu4tTQc-hdaPcW7CEIEw",
+    "options": [
+        {
+            "Regular": "160",
+            "Medium": "230",
+            "Large": "370"
+        }
+    ],
+    "description": "Loaded with Herbed Onion & Green capsicum, Sweet Corn, Tomato with signature pan sauce and 100% Mozzarella cheese. It's a feast you can't refuse."
+}
+]
