@@ -17,3 +17,25 @@ code {
 #carousel{
   max-height: 500px;
 }
+
+#features
+{
+    background-color: #fff;
+    position: relative;
+}
+
+.feature-box
+{
+    padding: 5%;
+}
+
+.icon
+{
+    color: #EA8FEA;
+    margin-bottom: 1rem;
+}
+
+.icon:hover
+{
+    color:#C92C6D;
+}
