@@ -1,0 +1,90 @@
+[
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Peri Peri Chicken Wrap",
+        "img": "https://img-global.cpcdn.com/recipes/bf130e2c7e935656/680x482cq70/nandos-style-peri-peri-chicken-wrap-recipe-main-photo.jpg",
+        "options": [
+            {
+                "Full": "80"
+            }
+        ],
+        "description": "Tender chicken breast, crisp mixed lettuce & tomato,pickled red onions, 2 slices of cheese, topped withNando's creamy Perinaise"
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Masala Paneer Tikka Wrap",
+        "img": "https://cdn.urbanpiper.com/media/bizmedia/2022/10/21/lD9cT-4401.jpeg",
+        "options": [
+            {
+                "Full": "100"
+            }
+        ],
+        "description": "We dont have any pun for paneer, but we do have a lot of surprises in this exciting snack that we roll into this wrap. Fresh paneer is smoked to perfection & drizzled with minty, spicy mayonnaise & wrapped in soft roti."
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Cheese Melt Paneer Wrap",
+        "img": "https://cdn.urbanpiper.com/media/bizmedia/2022/12/16/AxQvWB-4405.jpeg",
+        "options": [
+            {
+                "Full": "80"
+            }
+        ],
+        "description": "Let the good times roll with surprises & flavour with this exciting snack Cottage cheese is seasoned with select spices, slathered with creamy, gooey cheese & snuggly wrapped in soft roti."
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Chicken Bhuna Wrap",
+        "img": "https://product-assets.faasos.io/production/product/image_1639388089100_Chicken_Bhuna_Wrap.jpg",
+        "options": [
+            {
+                "Full": "120"
+            }
+        ],
+        "description": "The bestseller, rock n roll award goes to: Roasted and flavorful chicken pieces slow-cooked in spicy bhuna masala and wrapped with crisp onions in a freshly made roti. Is it snack time yet."
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Cheesy Corn Salsa Wrap",
+        "img": "https://product-assets.faasos.io/production/product/image_1574271488511_Cheesy%20Corn%20Salsa%20Wrap.jpg",
+        "options": [
+            {
+                "Full": "110"
+            }
+        ],
+        "description": "Caution: Not your average snack! Mexican inspired corn salsa with a generous serving of cheese is wrapped in a soft roti. A combination oh-so unique with flavours on a roll"
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Veg Spring Roll",
+        "img": "https://hot-thai-kitchen.com/wp-content/uploads/2021/03/veggie-spring-rolls-blog.jpg",
+        "options": [
+            {
+                "Full": "30"
+            }
+        ],
+        "description": "Spring Rolls are crunchy from outside, with a spiced veggie filling from inside."
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Kurkure Paneer Spring Roll",
+        "img": "https://i.pinimg.com/originals/06/0f/2b/060f2b02b20677fde014b68c3ffe4914.jpg",
+        "options": [
+            {
+                "Full": "70"
+            }
+        ],
+        "description": "It is fried, crispy, loaded, saucy and has indulgence written all over it."
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Kurkure Spring Roll",
+        "img": "https://lh3.googleusercontent.com/SAsQAtZtX3myM_3ttf6lp3mjrjFL8hNtjoPbh52dsxky5i3Kee06VwQQaleVpFyxS0Hp7tOuhx8GdxI2v-eEH9XkrCMtaRs-5TTx3ZE=w512-rw",
+        "options": [
+            {
+                "Full": "100"
+            }
+        ],
+        "description": "A delectable spring roll stuffed with assorted veggies. Dipped in chatpata masala and coated with cornflakes, then fried and served hot. Served with tandoori and plain mayo on top."
+    }
+]

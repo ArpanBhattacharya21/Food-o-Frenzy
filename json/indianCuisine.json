@@ -1,0 +1,301 @@
+[
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Chole Bhature",
+        "img": "https://www.cookforindia.com/wp-content/uploads/2015/12/chole-bhature-cover.jpg",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "80"
+            }
+        ],
+        "description": "Chole masala, yogurt, ginger, cinnamon, tomatoes."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Rajma Chawal",
+        "img": "https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2022/10/punjabi-rajma-masala.jpg?fit=2438%2C2119&ssl=1",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "100"
+            }
+        ],
+        "description": "Rajma, dried kidney beans, low fat, garam masala, ginger"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Kadhi Chawal",
+        "img": "https://thefoodscape.files.wordpress.com/2016/04/img_05751.jpg?w=940",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "90"
+            }
+        ],
+        "description": "Basmati rice, gram flour, curd, curry leaves, chili powder"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Chole Chawal",
+        "img": "https://everbake.co/wp-content/uploads/2021/07/CHOLE-CHAWAL.jpg",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "100"
+            }
+        ],
+        "description": "A classic Indian dish made with whole chick peas with green chillies and aromatic spices cooked in a tangy tomato curry."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Dal Makhni",
+        "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/dal-makhani-recipe.jpg",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "90"
+            }
+        ],
+        "description": "Red kidney beans, whole urad dal, whipping cream, garam masala, green."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Shahi Paneer",
+        "img": "https://profusioncurry.com/wp-content/uploads/2022/07/Shahi-paneer-recipe-served-with-garnishes.jpg",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "130"
+            }
+        ],
+        "description": "Paneer, cream, badam, garam masala, kewra water."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Tawa Paneer",
+        "img": "https://www.ruchikrandhap.com/wp-content/uploads/2016/03/TawaPaneer28129-1-1-426x500.jpg",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "125"
+            }
+        ],
+        "description": "Pav bhaji masala, paneer, hung curd, garam masala, butter."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Dal Fry",
+        "img": "https://spicecravings.com/wp-content/uploads/2021/05/Dal-Tadka-Featured.jpg",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "120"
+            }
+        ],
+        "description": "Masoor dal, garam masala, smoked paprika, kasuri methi, curry leaves."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Dal Tadka ",
+        "img": "https://www.mygingergarlickitchen.com/wp-content/rich-markup-images/1x1/1x1-restaurant-style-tadka-dal-recipe-how-to-make-dal-tadka.jpg",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "180"
+            }
+        ],
+        "description": "Masoor dal, charcoal, low fat, garam masala, ginger."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Malai Kofta",
+        "img": "https://www.carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe-500x500.jpg",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "140"
+            }
+        ],
+        "description": "Paneer, potato, cream, corn flour, garam masala."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Jeera Aloo",
+        "img": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/02/Jeera-Aloo-Recipe-500x500.jpg",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "80"
+            }
+        ],
+        "description": "Potatoes, lemon, ginger, green chilies, chili powder."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Paneer Korma",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2020/10/Shahi-Paneer-Korma-2-3.jpg",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "130"
+            }
+        ],
+        "description": "Using coconut milk, paneer, star anise, poppy seeds, fresh coconut."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Aloo Gobi",
+        "img": "https://niksharmacooks.com/wp-content/uploads/2022/11/AlooGobiDSC_5234.jpg",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ],
+        "description": "Potatoes, tomato paste, garam masala, kasuri methi, green chili."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Soya Chaap Gravy",
+        "img": "https://www.funfoodfrolic.com/wp-content/uploads/2022/08/Soya-Chaap-Blog.jpg",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "90"
+            }
+        ],
+        "description": "Soya chaap, yogurt, garam masala, tomato, kasuri methi."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Paneer Do Pyaza",
+        "img": "https://static.toiimg.com/thumb/59628941.cms?imgsize=364393&width=800&height=800",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "140"
+            }
+        ],
+        "description": "Cottage cheese, garam masala, curd, kasuri methi, capsicum."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Paneer Bhurji",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2021/04/Paneer-Bhurji-2-3-1.jpg",
+        "options": [
+            {
+                "Half": "55",
+                "Full": "99"
+            }
+        ],
+        "description": "Cottage cheese, garam masala, tomatoes, white butter, cayenne pepper"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Dosa",
+        "img": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/Masala-Dosa-500x500.jpg",
+        "options": [
+            {
+                "Full": "90"
+            }
+        ],
+        "description": "Urad dal, idli rice, thick poha, rock salt, methi dana"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Idli Sambhar",
+        "img": "https://www.mapsofindia.com/ci-moi-images/my-india/Idli-Sambhar.jpg",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "100"
+            }
+        ],
+        "description": "Pearl onions, potato, toor dal, drumsticks, french beans"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Vada Sambhar ",
+        "img": "https://i0.wp.com/www.blissofcooking.com/wp-content/uploads/2018/09/Vada-Sambar-MOP.jpg?resize=740%2C493&ssl=1",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "60"
+            }
+        ],
+        "description": "Bottle gourd, chana dal, roasted chana dal, urad dal, toor dal"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Uttapam",
+        "img": "https://www.cookwithkushi.com/wp-content/uploads/2016/01/vegetable_uttapam_dosa_recipe.jpg",
+        "options": [
+            {
+                "Half": "30",
+                "Full": "60"
+            }
+        ],
+        "description": "Chana dal, urad dal, idli rice, thick poha, tomato."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Dal Bati Churma",
+        "img": "https://vaya.in/recipes/wp-content/uploads/2018/04/dal-bati-churma.jpg",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "100"
+            }
+        ],
+        "description": "Green moong dal, chana dal, whole wheat flour, rava, urad dal"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Kathiyawadi Undhiyu",
+        "img": "https://www.carveyourcraving.com/wp-content/uploads/2019/09/undhiyu-pressure-cooker-indian.jpg",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "100"
+            }
+        ],
+        "description": "Sweet potato, raw banana, green pigeon peas, butter beans, yum!!"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Assamese Fish Curry",
+        "img": "https://green-travel-blog.com/wp-content/uploads/2019/07/AdobeStock_229328432.jpeg",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "100"
+            }
+        ],
+        "description": "Pineapple, fish, fresh turmeric, dried shrimp paste, bunga kantan."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Machcher Jhol",
+        "img": "https://geekrobocook.com/wp-content/uploads/2021/04/Macher-jhol.jpg",
+        "options": [
+            {
+                "Half": "200",
+                "Full": "400"
+            }
+        ],
+        "description": "Rohu fish, potato, brinjal, panch phoron, garam masala powder"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Dalma",
+        "img": "https://static.toiimg.com/photo/msid-57267614,width-96,height-65.cms",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "170"
+            }
+        ],
+        "description": "Dalma is a chickpea dal from Orissa."
+    }
+]

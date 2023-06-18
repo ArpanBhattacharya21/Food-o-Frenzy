@@ -1,11 +1,23 @@
 [
     {
-        "CategoryName": "Biryani/Rice"
-    },
-    {
-        "CategoryName": "Starter"
-    },
-    {
         "CategoryName": "Pizza"
+    },
+    {
+        "CategoryName": "Burger"
+    },
+    {
+        "CategoryName": "Fries"
+    },
+    {
+        "CategoryName": "Indian Cuisine"
+    },
+    {
+        "CategoryName": "Rolls & Wraps"
+    },
+    {
+        "CategoryName": "Noodles"
+    },
+    {
+        "CategoryName": "Momos"
     }
 ]

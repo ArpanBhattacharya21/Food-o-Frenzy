@@ -1,0 +1,67 @@
+[
+{
+    "CategoryName": "Fries",
+    "name": "Garlic Fries",
+    "img": "https://lh3.googleusercontent.com/ARHESMn6um-EawdZgiluvYx7cDBbS8ufQxYDp52kX5LPkqLX6QemB9irhv3MCrnknWu6kBvGOlGVvGHjOl3PHewlWiRpJKhC2QzeqXlRQQ=w512-rw",
+    "options": [
+        {
+            "Small": "30",
+            "Medium": "60",
+            "Large": "90"
+        }
+    ],
+    "description": "Garlic, baking potatoes, canola oil"
+},
+{
+    "CategoryName": "Fries",
+    "name": "Peri Peri Fries",
+    "img": "https://lh3.googleusercontent.com/3pZlz5v9iSkuoV-84vKHogQKYVYb40MZtNwW6M57i8xnSo4zHVjYCXiQDMbGDE-ppRKYNv6OzJXc7b7-teVcOs2o9dOzJZKILtaigJvJ4g=w512-rw",
+    "options": [
+        {
+            "Small": "60",
+            "Medium": "120",
+            "Large": "180"
+        }
+    ],
+    "description": "Peri peri, frozen french fries, potatoes"
+},
+{
+    "CategoryName": "Fries",
+    "name": "Cheesy Fries",
+    "img": "https://lh3.googleusercontent.com/kXoBmq68FHBXo8A_ujzwXskqxpzGzjbeL-GsWkTr6vXCTzXEeT2E7f9m671YBfZhC_3qry2qLzpKBEZ_QtouNYLoVcQBAg061RsB4zi_=w512-rw",
+    "options": [
+        {
+            "Small": "45",
+            "Medium": "75",
+            "Large": "99"
+        }
+    ],
+    "description": "Hi, it’s cheese on this side! The all-time favourite fries with a generous dollop of cheesy yet smoky chipotle sauce."
+},
+{
+    "CategoryName": "Fries",
+    "name": "Tandoori Fries",
+    "img": "https://scontent.fdel20-1.fna.fbcdn.net/v/t1.6435-9/168461925_3758914837531223_8305317823331273336_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a26aad&_nc_ohc=-SxdapOuqUMAX9hz1j5&_nc_ht=scontent.fdel20-1.fna&oh=00_AfB8Ul4_Xoj8GR6-PrRkBxUB7xWaih77FEUhArr4yOhHCA&oe=64B61A47",
+    "options": [
+        {
+            "Small": "50",
+            "Medium": "100",
+            "Large": "120"
+        }
+    ],
+    "description": "Tandoori Masala Fries. Crispy, crunchy, hot Tandoori Masala Fries made with a handful of ingredients."
+},
+{
+    "CategoryName": "Fries",
+    "name": "Cheese Baked Fries",
+    "img": "https://stordfkenticomedia.blob.core.windows.net/df-us/rms/media/recipemediafiles/recipes/retail/x17/18932-loaded-baked-potato-cheese-fries-760x580.jpg?ext=.jpg",
+    "options": [
+        {
+            "Small": "55",
+            "Medium": "88",
+            "Large": "110"
+        }
+    ],
+    "description": "Sour cream, cheddar cheese, buttermilk, olive oil, lemon juice."
+}
+]

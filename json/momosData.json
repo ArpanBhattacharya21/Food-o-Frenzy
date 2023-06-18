@@ -1,0 +1,74 @@
+[
+    {
+        "CategoryName": "Momos",
+        "name": "Paneer Kurkure Momos",
+        "img": "https://cdn.dotpe.in/longtail/store-items/2179291/lnq8nQZ8.jpeg",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "100"
+            }
+        ],
+        "description": "Flour wrappers are filled with a healthy filling of Cottage Cheese and fried with a batter of Bread Crumbs to make an appetizing snack."
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Veg Afghani Momos",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/e1/cb/75/veg-afghani-momos-one.jpg",
+        "options": [
+            {
+                "Half": "85",
+                "Full": "105"
+            }
+        ],
+        "description": "Momos, cream, steamed chicken, curd, chaat masala."
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Tandoori Chicken Momos",
+        "img": "https://i0.wp.com/ezmail.simplefoodreviews.com/wp-content/uploads/2021/04/PAN-FRIED-TANDOORI-CHICKEN-MOMOS-by-Fiza-simplefoodreviews-mangalore.jpg?fit=1280%2C851&ssl=1",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "110"
+            }
+        ],
+        "description": "Seasoned and grilled to perfection in a tandoor, these momos are packed with flavor, texture, and a delicious taste."
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Paneer Momos Tandoori",
+        "img": "https://www.wearegurgaon.com/wp-content/uploads/2022/04/Tandoori-Momos-Nazims-Gurgaon.jpg",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "80"
+            }
+        ],
+        "description": "Made with juicy, spiced paneer, these momos are grilled to perfection in a tandoor, resulting in a delicious flavor."
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Veg Momos",
+        "img": "https://ifreezefood.com/wp-content/uploads/2020/10/Veg-1.jpg",
+        "options": [
+            {
+                "Half": "20",
+                "Full": "40"
+            }
+        ],
+        "description": "Veg momos are steamed dumplings stuffed with a lightly spiced vegetable filling."
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Chicken Momos",
+        "img": "https://www.iwmbuzz.com/wp-content/uploads/2022/06/easy-recipe-to-enjoy-simple-chicken-momos-at-home.png",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "100"
+            }
+        ],
+        "description": "Chicken mince flavoured with soy sauce, chilies, pepper are stuffed inside a thin flour dough filling and then steamed."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "CategoryName": "Noodles",
+        "name": "Chilly Garlic Noodles",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2020/02/Chilli-Garlic-Noodles-2-3.jpg",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "90"
+            }
+        ],
+        "description": "Jullienes of vegetables tossed with flour noodles in light soy sauce and chilli paste topped with burnt garlic."
+    },
+    {
+        "CategoryName": "Noodles",
+        "name": "Veg Hakka Noodles",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2020/10/Veg-Hakka-Noodles-2-3.jpg",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "110"
+            }
+        ],
+        "description": "Over 5 million sold till date!"
+    },
+    {
+        "CategoryName": "Noodles",
+        "name": "Veg Pad Thai Noodles",
+        "img": "https://pinchofyum.com/wp-content/uploads/Vegetarian-Pad-Thai-Recipe.jpg",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "140"
+            }
+        ],
+        "description": "A Thai streetside classic! Flat rice noodles tossed with bean sprout and garlic chives in a tangy tamarind and date palm sauce garnished with crushed peanuts."
+    },
+    {
+        "CategoryName": "Noodles",
+        "name": "Singapore Style Noodles",
+        "img": "https://i.pinimg.com/originals/83/07/b6/8307b60ec6dbadc1839bebd78558c307.jpg",
+        "options": [
+            {
+                "Half": "75",
+                "Full": "105"
+            }
+        ],
+        "description": "Jullienes of vegetables tossed with flour noodles in our in house sweet and tangy sauce garnished with spring onion."
+    },
+    {
+        "CategoryName": "Noodles",
+        "name": "Chicken Chilli Garlic Noodles",
+        "img": "https://butteroverbae.com/wp-content/uploads/2021/10/chili-garlic-noodles-8.jpg",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "180"
+            }
+        ],
+        "description": "Jullienes of chicken tossed with flour noodles in light soy sauce and chilli paste topped with burnt garlic."
+    }
+]
