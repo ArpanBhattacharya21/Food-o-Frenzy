@@ -1,0 +1,90 @@
+[
+    {
+        "CategoryName": "Breads",
+        "name": "Plain Roti",
+        "img": "https://lh3.googleusercontent.com/DtJctwJi9o45rkGqo99Jr393JrfOU3-QJPrv5bGY89y9W6f2dDNReHfZgkWTQtnwJvyGhB9KZe35qhZck9Hew9psuEE5d67imXkc3CU",
+        "options": [
+            {
+                "Full": "5"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Butter Tawa Roti",
+        "img": "https://lh3.googleusercontent.com/STpvhwkXRLChW84-pwG0y5OKxvCE9MLFmBATKWUeUaY_y3XpWurwT49zfGs5qGGelmpOX4dXxwr26fuXAr7oovDnULwwUhnZ5yT8JIQ_QA",
+        "options": [
+            {
+                "Full": "7"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Plain Butter Tawa Paratha",
+        "img": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2017/Extras/Tawa_Paratha_Recipe-7956_400.jpg",
+        "options": [
+            {
+                "Full": "11"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Tawa Laccha Parantha",
+        "img": "https://lh3.googleusercontent.com/1QQWmHbgiQ3rTqqzwx8qRXJVrWL3FowxvVVb-a0g_sZZEBu8E__fJMjPxqIRrBvJV0w1YsT7uAaSYGV67ctmHA4h9KVz3POE4pZ2AY0v=w512-rw",
+        "options": [
+            {
+                "Full": "15"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Plain Naan",
+        "img": "https://lh3.googleusercontent.com/J49FTjkoqk806eVqDdNaXghWORWrW5Gf_kCzV81avkFBDjdmeyjuRfo5VUeFyXtG7gWuMNXsYS3cYkahjRuR2z7WrBWJatd-YIF-rcc=w512-rw",
+        "options": [
+            {
+                "Full": "15"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Butter Naan",
+        "img": "https://lh3.googleusercontent.com/SBTckqoTDycENUqoEVZtfta8hdArlGOSWO5pGuR0c7zFxvTOx-bse2Drmbn9ZNRDHaepF8g3CYZ52qmapbOYF9dhw6kI6MqyVQP8-jI=w512-rw",
+        "options": [
+            {
+                "Full": "20"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Rumali Roti",
+        "img": "https://lh3.googleusercontent.com/U3gylt-WREXrOsFJMF2A1oiyhlZR04aZVgxFpeA5jIXeOO68WPqtfHxFFCcxqYgVFSmQDTW3rlXt_XFyaOB2_MHBfXVPg6PIfZfRHEqS=w512-rw",
+        "options": [
+            {
+                "Full": "15"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Garlic Naan",
+        "img": "https://lh3.googleusercontent.com/lQNReT4Fw2jEXcAovpmhRIQcjirMGiqKfH8WcjI7lT_0eXhHFgmK2uydmTNwEd6MpAZJ8EZ6vn3a_i5n4SAkJWspDXrry6cwPCXMSYjmtQ=w512-rw",
+        "options": [
+            {
+                "Full": "25"
+            }
+        ],
+        "description": ""
+    }
+]

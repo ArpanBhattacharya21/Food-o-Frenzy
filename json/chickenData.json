@@ -1,0 +1,170 @@
+[
+    {
+        "CategoryName": "Chicken",
+        "name": "Kadai Chicken",
+        "img": "https://lh3.googleusercontent.com/07jgY43mtUBfsPcWUo82aZytGr-BaK0DtnHJ3vOmso32qLuUrUkb2vOJACi3FftOTjBAmGlX0shH8mvMx8sW8uKLkMys9hYycPb3K60E=w512-rw",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "180"
+            }
+        ],
+        "description": "Kadai Chicken (Chicken Karahi Curry) is a delicious Indian chicken curry where chicken is cooked with freshly ground spices."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Butter Chicken",
+        "img": "https://lh3.googleusercontent.com/cN8G4Hmd4kVLolC37qUuIYNltjLMb5cVZNr15pfPlahvxn29XoCood6ZUj4x0_ABzvohaUEuUUuv1rDMooL6VRYCPjqWhkvsLsAUjyM=w512-rw",
+        "options": [
+            {
+                "Half": "100",
+                "Full": "200"
+            }
+        ],
+        "description": "Made from chicken with a spiced tomato and butter (makhan) sauce."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Dum Murgh Keema",
+        "img": "https://lh3.googleusercontent.com/wcK4RL-94UOLOtAiULUesSpceENlzBxHGdVzyAPa9alb-kpr909Qs_tHIaJixfs6CXkK8BqBlrqdx4lVN7HqHh3xv9gd8q_OzrpGlyOzLA",
+        "options": [
+            {
+                "Half": "200",
+                "Full": "350"
+            }
+        ],
+        "description": "When tender & juicy chicken is finely minced and slow-cooked with Behrouz's shahi masalas, you are bound to have a memorable daawat! Garnished with fresh coriander leaves, enjoy this shahi delicacy with your choice of bread."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Murgh Haleem Kebab",
+        "img": "https://lh3.googleusercontent.com/tB5zisjLgSxzl8nuqCxpRFpz_gY6Ar7sIuSuOjDCCElnP7jTn_T37QE3vogPuaTD6-rGqbgzVw0PAqUtsg7zLwtlLYt-mzkakqDqDbY=w512-rw",
+        "options": [
+            {
+                "Half": "190",
+                "Full": "320"
+            }
+        ],
+        "description": "Crafted by Celebrity Chef Kunal Kapur slow-cooked haleem, a speciality of Mehfil-e-Ramadan is fused with Hyderabadi spices, rolled into elegant kebabs & char-grilled to perfection in ghee."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Murgh Makhani",
+        "img": "https://lh3.googleusercontent.com/ZQDSeMoMHGkf0HFSNYJ4_2Mv7w9nUWxzzOvBOX_AlD6NMB1kYIlEjUqGsEKQTWa9NvjlCAlLwqBsc1JqkyRvU7PdAc3VvNnAo3-sjtY=w512-rw",
+        "options": [
+            {
+                "Half": "120",
+                "Full": "240"
+            }
+        ],
+        "description": "Tender chicken pieces cooked in creamy butter chicken gravy, layered with aromatic basmati rice and dum pukht in its full glory. A royal fusion between two of Indias most beloved dishes."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Murgh Malai Kebab",
+        "img": "https://lh3.googleusercontent.com/77EoY_U81J-m3Dp_pyPblG68LN7VLP-QvoibMPahxRRfbXhZUpW8njT1acEukrUUZyvQ4iTeHuwsF4H8zbsinhwPvFraaqYJQ31DU1rk=w512-rw",
+        "options": [
+            {
+                "Half": "250",
+                "Full": "400"
+            }
+        ],
+        "description": "Brimming with impeccable flavours this rich kebab delicacy is as delectable as it is charming. Succulent chicken pieces are eloquently spiced with royal spices and then grilled to perfection to lend it the fascinating smoky flavour."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Gosht-E-Galouti Kebab",
+        "img": "https://lh3.googleusercontent.com/CITPVf_EuPgspH6lcu8v_tL2Tspxa6iEoNo-TzjPM-i29PnZYq_bSfoWwYtmmcMaOnOoGDsTEPF99aJziPdaqxvVU66erwHaGf8FkmkA=w512-rw",
+        "options": [
+            {
+                "Half": "260",
+                "Full": "400"
+            }
+        ],
+        "description": "https://lh3.googleusercontent.com/CITPVf_EuPgspH6lcu8v_tL2Tspxa6iEoNo-TzjPM-i29PnZYq_bSfoWwYtmmcMaOnOoGDsTEPF99aJziPdaqxvVU66erwHaGf8FkmkA=w512-rw"
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Prawn Curry",
+        "img": "https://lh3.googleusercontent.com/rbyMbpwifl7f05LmRL6i05dcCRc07nGFFIf3m1N947FcP8A5SLlwqQrh2HYAGx4BqF-yRcbkOpSZ9JywYxy2qJbx2Oq3rmCpQZ_5oUo=w512-rw",
+        "options": [
+            {
+                "Half": "230",
+                "Full": "410"
+            }
+        ],
+        "description": "Pounds large ​prawns, or tiger prawns ; large onions ; medium tomatoes ; green chiles ; tablespoons vegetable oil. "
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Chicken 65",
+        "img": "https://lh3.googleusercontent.com/mHB3pEWpL6Vhs7cBMWcQIrt1NuWRmX_IBBRJxZY6nbWtYq50jBZqZmhnIeUF6-Znd9fJfK8Kz3vyyP0CW6edUJdHGa4NfnzAXbUgmwt2=w512-rw",
+        "options": [
+            {
+                "Half": "100",
+                "Full": "220"
+            }
+        ],
+        "description": "Chicken 65 is a popular South Indian Chicken appetizer made by deep frying marinated chicken with curry leaves and green chilies."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Kadhai Chicken",
+        "img": "https://lh3.googleusercontent.com/CV9UscoMcpa8xSgtWGHOtCfd9V851qpLgEjUotflwUoeW4KeRewhsA_QrBBRU2ackj1CkHOc-cHEctPecn6W8TQYM8CpWeb1BofTh86i=w512-rw",
+        "options": [
+            {
+                "Half": "150",
+                "Full": "300"
+            }
+        ],
+        "description": "Chicken prepared in spicy curry"
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Tandoori Chicken",
+        "img": "https://lh3.googleusercontent.com/eWquBotN3Bin8TQgxcEgtthk9PEDzHRzbZu6KMIigDsKKz_4QBm_QIOYtvKxBQuVu2NcrRcfnVtCpIAZzCee8SO5HWox99mQU44xjQE5=w512-rw",
+        "options": [
+            {
+                "Half": "110",
+                "Full": "280"
+            }
+        ],
+        "description": "Marinated grilled chicken."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Chicken Rezala",
+        "img": "https://lh3.googleusercontent.com/HzQqfLyzJenZgEh0mVgXfEaalqZrr2QgF7Q17jWq9PWzLV6Eob7ru0txO6ivtJ5kg5BB-Syc1Xs_Opyz2mYVyLUDV0MPuOX5w5LcovKR",
+        "options": [
+            {
+                "Half": "200",
+                "Full": "300"
+            }
+        ],
+        "description": "Chicken Rezala is a creamy and rich Mughlai curry prepared with chicken, yogurt, cashews, poppy seeds, and a few whole spices."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Rogan Josh",
+        "img": "https://lh3.googleusercontent.com/Hh6hzXrkzRaY-gngRtQopUBim8lQPEmf-T9Lg_PEroEe7CT6dvIiC7SXHNxsLa0G5d25l4okM0YpivbX0RcVQB5Dfn_MnCgvIKOpD4GsnA",
+        "options": [
+            {
+                "Half": "150",
+                "Full": "250"
+            }
+        ],
+        "description": "Rogan Josh, a classic comfort food from the Kashmiri Cuisine is a slow cooked dish made with lamb, spices, herbs and yogurt."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Shalgam Gosht",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2015/12/Shalgam-Gosht-4.jpg",
+        "options": [
+            {
+                "Half": "199",
+                "Full": "399"
+            }
+        ],
+        "description": "Shalgam Gosht or Mutton Lamb Curry with Turnip is a deliciously spicy meat dish that is slow cooked to imbibe the flavor of spices."
+    }
+]
