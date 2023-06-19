@@ -27,6 +27,53 @@
 .App-link {
   color: #61dafb;
 }
+.item_food_card_title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  text-align: center;
+}
+.item_food_cards {
+  /* height: 8rem; */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.card_main_container {
+  /* padding: 2rem */
+  border: 1px solid grey;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+.card_main_inner {
+  padding: 1rem
+}
+
+.card_footer_container {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem
+}
+
+.card_footer_button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card_footer_button button {
+  width: 100%;
+  color: rgba(255, 255, 255, 0.921)
+}
 
 @keyframes App-logo-spin {
   from {
