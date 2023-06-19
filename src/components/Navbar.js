@@ -4,6 +4,7 @@ import { Badge } from "react-bootstrap";
 import Cart from '../screens/Cart';
 import Modal from '../Modal';
 import { useCart, useDispatchCart } from "./contextReducer";
+import brand from "../Photos/Logo.png";
 
 
 export default function Navbar() {
@@ -18,7 +19,7 @@ export default function Navbar() {
     })
   }, []);
 
-  console.log(data, "ARPAN IS A GOOD BOY")
+  //console.log(data, "ARPAN IS A GOOD BOY")
   const handleLogout = () => {  
     localStorage.removeItem("authToken");
     localStorage.removeItem("cart_item")
@@ -27,10 +28,10 @@ export default function Navbar() {
 
   return (
     <div>
-      <nav class="navbar navbar-expand-lg navbar-dark bg-success">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-warning fixed-top">
         <div class="container-fluid">
-          <Link class="navbar-brand fs-3 fst-italic" to="#">
-            Food-o-Frenzy
+          <Link class="navbar-brand fs-2 navFont" style={{"color":"#800020"}} to="/">
+            <img src={brand} alt="logo" width="70px" height=""/>Food-o-Frenzy
           </Link>
           <button
             class="navbar-toggler"
@@ -46,14 +47,14 @@ export default function Navbar() {
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav me-auto mb-1">
               <li class="nav-item">
-                <Link class="nav-link active fs-5" aria-current="page" to="/">
+                <Link class="nav-link active fs-4" aria-current="page" to="/">
                   Home
                 </Link>
               </li>
               
               { localStorage.getItem("authToken") ? (
                 <li class="nav-item">
-                  <Link class="nav-link active fs-5" aria-current="page" to="/myOrder"> My Orders </Link>
+                  <Link class="nav-link active fs-4" aria-current="page" to="/myOrder"> My Orders </Link>
                 </li>
               ) : (
                 ""

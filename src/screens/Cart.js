@@ -77,7 +77,7 @@ export default function Cart() {
     <div>
       <div className="container m-auto mt-5 tabel-responsive table-responsive-sm table-responsive-md">
         <table className="table table-hover ">
-          <thead className=" text-success fs-4">
+          <thead className=" text-dark fs-4">
             <tr>
               <th scope="col">#</th>
               <th scope="col">Name</th>
@@ -112,7 +112,7 @@ export default function Cart() {
           <h1 className="fs-2">Total Price: {totalPrice}/-</h1>
         </div>
         <div>
-          <button className="btn bg-success mt-5" onClick={handleCheckOut}>
+          <button className="btn bg-warning mt-5" onClick={handleCheckOut}>
             {" "}
             Check Out{" "}
           </button>

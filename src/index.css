@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: 'NHaasGroteskDSPro-65Md' !important;
+  font-family: 'Outfit', sans-serif;
 }
 
 code {
@@ -38,4 +38,9 @@ code {
 .icon:hover
 {
     color:#C92C6D;
+}
+
+.navFont
+{
+  font-family: 'Courgette', cursive;
 }
