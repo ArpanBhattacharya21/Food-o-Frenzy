@@ -38,12 +38,12 @@ export default function Signup() {
   //Designing part - FrontEnd
   return (
     <div style={{backgroundImage: 'url("https://images.pexels.com/photos/1565982/pexels-photo-1565982.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")', backgroundSize: 'cover',height: '100vh'}}>
-      <div>
+      <div style={{"paddingTop":"6rem"}}>
         <Navbar />
       </div>
 
     <div className='container'>
-      <form className='w-50 m-auto mt-5 border bg-dark bg-opacity-75 border-success rounded' onSubmit={handleSubmit}>
+      <form className='w-50 m-auto mt-5 border bg-dark text-white bg-opacity-75 border-success rounded' onSubmit={handleSubmit}>
       <div className="m-3">
           <label htmlFor="name" className="form-label"> Name </label>
           <input type="text" className="form-control" name='name' value={credentials.name} onChange={onChange} id="name"/>

@@ -48,7 +48,7 @@ export default function Card(props) {
     <div>
       <div>
         <div
-          className="card mt-3"
+          className="card mt-3 border-secondary"
           style={{ width: "18rem", maxHeight: "" }}
         >
           <img src={props.foodItem.img} className="card-img-top" alt="..." style={{height:"180px", objectFit:"contain"}}/>
@@ -56,7 +56,7 @@ export default function Card(props) {
             <h5 className="card-title">{props.foodItem.name}</h5>
             <p className="card-text">{props.desc}</p>
             <div className="container w-100">
-              <select className="m-2 h-100 bg-success rounded" onChange={(e)=> setQty(e.target.value) }>
+              <select className="m-2 h-100 bg-warning rounded" onChange={(e)=> setQty(e.target.value) }>
                 {Array.from(Array(6), (e, i) => {
                   return (
                     <option key={i + 1} value={i + 1}>
@@ -65,7 +65,7 @@ export default function Card(props) {
                   );
                 })}
               </select>
-              <select className="m-2 h-100 bg-success rounded" ref={priceRef} onChange={(e)=> setSize(e.target.value) }>
+              <select className="m-2 h-100 bg-warning rounded" ref={priceRef} onChange={(e)=> setSize(e.target.value) }>
                 {priceOptions?.map((data)=>{
                   return <option key={data} value={data}>{data}</option>
                 })}
@@ -76,7 +76,7 @@ export default function Card(props) {
               </div>
             </div>
             <hr></hr>
-            <button className={'btn btn-success justify-center ms-2'} onClick={handleAddToCart}>Add to Cart</button>
+            <button className={'btn btn-warning justify-center ms-2'} onClick={handleAddToCart}>Add to Cart</button>
           </div>
         </div>
       </div>

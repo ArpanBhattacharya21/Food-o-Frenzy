@@ -34,11 +34,12 @@ export default function Home() {
       </div>
 
       <div>
+        <div style={{"paddingTop":"6rem"}}></div>
         <div
           id="carouselExampleFade"
           className="carousel slide carousel-fade"
           data-bs-ride="carousel"
-          //style={{ objectFit: "contain !important" }}            ## //NOT WORKING so commented
+          style={{ objectFit: "contain !important" }}            
         >
           <div className="carousel-inner" id="carousel">
             <div className="carousel-caption" style={{ zIndex: "10" }}>
@@ -55,26 +56,50 @@ export default function Home() {
 
             <div className="carousel-item active">
               <img
-                src="https://source.unsplash.com/random/700x900/?barbeque"
+                src="https://t3.ftcdn.net/jpg/02/94/30/58/360_F_294305868_QTSSjWvyGvUCPfuH7bPuq6tBqF08hT0x.jpg"
                 className="d-block w-100"
-                style={{ filter: "brightness(30%)" }}
-                alt="..."
+                style={{ filter: "brightness(50%)" }}
+                alt="poster"
               />
             </div>
             <div className="carousel-item">
               <img
-                src="https://source.unsplash.com/random/700×900/?pizza"
+                src="https://images.squarespace-cdn.com/content/v1/5bc7496d11f7844988feb43d/1599165408168-RKXBCCBZDHT4X1JQFPUI/TKK+New+Spicy+Items_website+banner+%28Custom%29.jpg"
                 className="d-block w-100"
-                style={{ filter: "brightness(30%)" }}
-                alt="..."
+                style={{ filter: "brightness(50%)" }}
+                alt="poster"
               />
             </div>
             <div className="carousel-item">
               <img
-                src="https://source.unsplash.com/random/700×900/?pastry"
+                src="https://t3.ftcdn.net/jpg/02/46/37/08/360_F_246370873_V5G96d4DmpADNvCLDIdqDljnAvl7Jcif.jpg"
                 className="d-block w-100"
-                style={{ filter: "brightness(30%)" }}
-                alt="..."
+                style={{ filter: "brightness(50%)" }}
+                alt="poster"
+              />
+            </div>
+            <div className="carousel-item">
+              <img
+                src="https://luckyboatnoodles.co.uk/wp-content/uploads/2020/03/10557-LB-Web_Recipe-KingPrawnCM.jpg.webp"
+                className="d-block w-100"
+                style={{ filter: "brightness(50%)" }}
+                alt="poster"
+              />
+            </div>
+            <div className="carousel-item">
+              <img
+                src="https://www.getflavor.com/wp-content/uploads/2022/03/Coming-in-Hot-Loaded-Fries-Hero-Banner.png"
+                className="d-block w-100"
+                style={{ filter: "brightness(50%)" }}
+                alt="poster"
+              />
+            </div>
+            <div className="carousel-item">
+              <img
+                src="https://cdn.shopify.com/s/files/1/2446/6407/articles/biryani_banner.png?v=1666954821"
+                className="d-block w-100"
+                style={{ filter: "brightness(50%)" }}
+                alt="poster"
               />
             </div>
           </div>
