@@ -1,0 +1,1567 @@
+[
+    {
+        "CategoryName": "Pizza",
+        "name": "Naples - Margherita Pizza",
+        "img": "https://lh3.googleusercontent.com/ZU0o8fJsDVW9HYjQgCh_UZRQ0jQQ80PLAPfCWEqPWGiK7HOVgMSuGWtmAn6WdkOWu9t5AI9uKzMeMT8yAlzlFqNoWRnctPcQNvvoIXok0Q=w512-rw",
+        "options": [
+            {
+                "Regular": "200",
+                "Medium": "350",
+                "Large": "400"
+            }
+        ],
+        "description": "An Authentic Italian Naples Pizza Prepared with our signature pizza base & our classic house red pizza sauce with tomatoes, mozzarella, fresh basil & extra virgin olive oil."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Veggie Supreme",
+        "img": "https://lh3.googleusercontent.com/JM8TU4QPvbAzZSf9_vhSCnAOxmtOewZG9N9w3cfeZF6gLfUHUPwKgSrxF9lHPNMf_7O01qkqZt9vipA7s7xO31HsI77EivJ_c8lry_yr",
+        "options": [
+            {
+                "Regular": "200",
+                "Medium": "350",
+                "Large": "400"
+            }
+        ],
+        "description": "A supreme combination of Black Olives, Green Capsicum, Mushroom, Onion, spicy Red Paprika & juicy Sweet Corn with flavourful pan sauce and 100% mozzarella cheese."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Naples - Mixed Vegetables With Crumbled Feta Pizza",
+        "img": "https://lh3.googleusercontent.com/THjn14VHer2buToAY341zk7Qup-ABrpChletUWfJSx6N-hAUXVAw1gIHmYigCq7Zh0fRpquqwYSC-wL-5E-BUfoZc_P-NcRMNIqsDTPqnQ=w512-rw",
+        "options": [
+            {
+                "Regular": "200",
+                "Medium": "380",
+                "Large": "420"
+            }
+        ],
+        "description": "An Authentic Italian Naples Pizza Prepared with our signature pizza base & our classic house red pizza sauce with mozzarella grilled zucchini, mushroom, bell pepper, cherry tomato & crumbled feta."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Margherita Pizza",
+        "img": "https://lh3.googleusercontent.com/UrnzR23ASEZNnmKsTmsvpFdgXprDmRswHQz8-ghgd8K-vbl4mC3_KxMv19F_2j2OkdGYf8goqk9JJvKCXh9uRASVrjPE-T8ROlBwbDra=w512-rw",
+        "options": [
+            {
+                "Regular": "120",
+                "Medium": "220",
+                "Large": "340"
+            }
+        ],
+        "description": "Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!"
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Chicken Sausage",
+        "img": "https://cdn.urbanpiper.com/media/bizmedia/2022/07/25/Double-Chicken-Sausage_468x432px.jpg",
+        "options": [
+            {
+                "Regular": "199",
+                "Medium": "329",
+                "Large": "400"
+            }
+        ],
+        "description": "Pizza topped with Chicken n Cheese Sausages & crunchy Onions, flavourful pan sauce and 100% mozzarella cheese."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Spiced Paneer",
+        "img": "https://lh3.googleusercontent.com/p_9EEv7-YL_d3hTRAyU5KR-7Ei9ww0t12cIaVBfjgi6gJJR31HzptqEaT_3LHpGQUzD7tCVSU6eQ75r_W_OJpOMX5kiMbuM2jvN9tUz1Gg",
+        "options": [
+            {
+                "Regular": "150",
+                "Medium": "230",
+                "Large": "350"
+            }
+        ],
+        "description": "Light & crispy new San Francisco Style Crust, topped with Chef's special sauce and a drizzle of extra virgin olive oil."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Schezwan Corn & Capsicum",
+        "img": "https://lh3.googleusercontent.com/MUnaV30adzWoKhKCwwOjix4y0oZUFq20rji0PYf_OZ9L-fjYcZZzYbw0ijq5cGZvXrbwmdVSCHWdxJFNjALVeNkIcwFBljf1llIClF4=w512-rw",
+        "options": [
+            {
+                "Regular": "210",
+                "Medium": "299",
+                "Large": "329"
+            }
+        ],
+        "description": "Personal Pizza topped with Spicy Schezwan sauce, sweet corn & crunchy capsicum and cheesy dressing"
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Mexican Fiesta",
+        "img": "https://lh3.googleusercontent.com/4dd_s9edtljXt2gVAoAUP1bTyRnkia0QonfYkt8-EuV0hCln9Jg0sPSwyQFMSwRUnc6PRUE4zlcdaLU5hisxI0u00yCTl_yvL14Olm7M8g=w512-rw",
+        "options": [
+            {
+                "Regular": "199",
+                "Medium": "289",
+                "Large": "329"
+            }
+        ],
+        "description": "Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and 100% mozzarella Cheese with a signature spice sprinkle & our flavourful pan sauce."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Ultimate Tandoori Veggie",
+        "img": "https://lh3.googleusercontent.com/ImJWm5I2GWAGE-0KFbjNJ0mzcuZQ9qCrj2f5BuvSfLXviM2QFa8_EBELUo_t5eud2CQwBeXg1ub508Mtwv24IxfTvxNavOGwpSBhLLI=w512-rw",
+        "options": [
+            {
+                "Regular": "160",
+                "Medium": "200",
+                "Large": "280"
+            }
+        ],
+        "description": "An ultimate combination of your favourite veggies- onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with 100% mozzarella cheese & generous drizzle of mint mayo."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Sausage & Sweet Corn",
+        "img": "https://lh3.googleusercontent.com/m-3nDYJ5ql4vfXYz1vlnSpvHAI7koIUnmEsRljpEUOtVAcTMgFjUuQVdf8yDnP-9WinZXomULBSkz8fd3PGd8yzzbd0_FpljjCDS49oL=w512-rw",
+        "options": [
+            {
+                "Regular": "200",
+                "Medium": "280",
+                "Large": "350"
+            }
+        ],
+        "description": "Our classic chicken & cheese sausage, juicy sweet corn and 100% mozzarella cheese with flavourful pan sauce."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Dhabe Da Keema",
+        "img": "https://lh3.googleusercontent.com/5Pt2pDv8G3EohFXX8uLUFqPQnqlBlnxynvMehIwHdoqFc29zJ8w7gV6B9cD2xtrn1vEOp7dZuSuEvw6XwZxz22Sbz9ntB-TgKCrmoBjJ",
+        "options": [
+            {
+                "Regular": "120",
+                "Medium": "200",
+                "Large": "320"
+            }
+        ],
+        "description": "Dhaba style chicken keema masala, with green chiili, crunchy onion with flavourful pan sauce, 100 % mozzarella cheese & a generous drizzle of mint mayo."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Sizzling Schezwan Chicken",
+        "img": "https://lh3.googleusercontent.com/Kyd90PjbQOaGPdGuFphyyMMmMArw-VX8AtE0BRnkrlo4aiZKEFvjiVAYctD3onI9weKBxICgfhiS4nGgCx-asQ4GspQsECy7ffsXt0Mf",
+        "options": [
+            {
+                "Regular": "200",
+                "Medium": "300",
+                "Large": "400"
+            }
+        ],
+        "description": "Loaded with our signature spicy schezwan sauce, juicy schezwan chicken meatballs & 100% mozzarella cheese."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Nawabi Murg Makhni",
+        "img": "https://lh3.googleusercontent.com/LkHn2wY4TIjZ6EIrtZwbFT20SmTwBgP9hOh1JoP9Svqel8QcA0EkD6yTUijPuguyiPSWHmcjGxGcoqfqNzZc41F2nuxZ3keswtOhqpCH=w512-rw",
+        "options": [
+            {
+                "Regular": "180",
+                "Medium": "280",
+                "Large": "340"
+            }
+        ],
+        "description": "A chicken lovers delight ! Combination of chicken malai tikka, flavourful chicken keema masala, crunchy onion, juicy tomato on our new makhni sauce with 100% mozzarella cheese and buttery spice sprinkle."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Cheezy Mushroom Magic",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/cheezy-mushroom-magic.40d9989d4e84c2d302a338da3dfa7140.1.jpg",
+        "options": [
+            {
+                "Regular": "150",
+                "Medium": "250",
+                "Large": "350"
+            }
+        ],
+        "description": "A new combination with creamy mushroom sauce, chunky black olives, spicy jalapeno, juicy sweet corn, mushroom and 100% mozzarella cheese with garlic sprinkle for extra flavour hit."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Country Feast",
+        "img": "https://lh3.googleusercontent.com/7CWxVUrnlpZutj_Boz040ONKnXQkLxDSkQlF73IPRlLWjJ4GvWQZ1-tYRdFTB_vWqmxWCFc1NBmQxyspy9FTu4tTQc-hdaPcW7CEIEw",
+        "options": [
+            {
+                "Regular": "160",
+                "Medium": "230",
+                "Large": "370"
+            }
+        ],
+        "description": "Loaded with Herbed Onion & Green capsicum, Sweet Corn, Tomato with signature pan sauce and 100% Mozzarella cheese. It's a feast you can't refuse."
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Veg Maharaja Mac",
+        "img": "https://lh3.googleusercontent.com/voaaQGePjOSnkbH-CCKjo_zcVpC3wkljZ83dU0T8RygyjkXo1c4ZWMs5Xy1wHMyXbn2MDVRmlbyCP0adktZVwM4xlEM-uJI5-i0bC1sM=w512-rw",
+        "options": [
+            {
+                "Full": "100"
+            }
+        ],
+        "description": "Big Mac sesame seeds bun, with rich and crusty cheesy corn patty, topped with chunky vegetable-cocktail sauce served with pungent jalapeño slices, red onion slices, tomato slices, Cheddar cheese slice and crisp iceberg lettuce."
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Mixed Chicken Zinger Burger Doubles",
+        "img": "https://lh3.googleusercontent.com/UX4RYch4OJYVjdMdkHe4j27ajVqB2eXICNx-_PLH1ysP4jWB6A3jwc0cm3eQq0P7C1IZaaElFgT6SArGW_QNLhkrA-hw_GRJeDOPi4sXhQ=w512-rw",
+        "options": [
+            {
+                "Full": "250"
+            }
+        ],
+        "description": "Best-seller combo of classic chicken zinger & tandoori zinger."
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Veg Zinger",
+        "img": "https://lh3.googleusercontent.com/r-o8grHbQBTkz3rmGloLyp1ROLlLpDSEVRg91t0oUdI6fPDK8H0zWnX1_KCGvVeXbCDo_rPlOXDt3oESwW_m1fUDabmX5xHmThZZfh3AGQ=w512-rw",
+        "options": [
+            {
+                "Full": "90"
+            }
+        ],
+        "description": "Signature veg burger with crispy patties, veggies & a tangy sauce."
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Bingo Burger",
+        "img": "https://lh3.googleusercontent.com/RMwnhZj_mYSTm5PcDhyay7-2d7Zcz35nVjFmUnYJFg2JdYw-XnsCY6b8lsq-uFK3lu095IgGkn7t-ll7aqgExPMZ8UY=w512-rw",
+        "options": [
+            {
+                "Full": "120"
+            }
+        ],
+        "description": "100% Freshly Minced Lamb Patty, Pickles, Caramelized Onions, Sriracha Mayo, Natural Cheese Blend & Lettuce."
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Giza Burger",
+        "img": "https://lh3.googleusercontent.com/6z-jk3xnKoLzpDHQHB-sXT2Y15l_YnFUHdjpEgVip0Uvjkpig-a6YD38T3yvFLQSJykC0FHiADy0uU-k3tfXXiRDKAwN4nMZuP3Lhaul=w400-rw",
+        "options": [
+            {
+                "Full": "99"
+            }
+        ],
+        "description": "Crisp Potato & Cheese Patty, Fresh Tomatoes, Sriracha Mayo & Lettuce."
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Veg Snacker",
+        "img": "https://lh3.googleusercontent.com/0TfGEmv8riDEJxSJpcWv-88Q2LsvZ4If8sWSlqyt17Z2nBkasdwnulvSIf_3pE6Fo-DATbCBZ0mLprArAB5CtAcBY8nWLyNUur-dN5fv=w512-rw",
+        "options": [
+            {
+                "Full": "50"
+            }
+        ],
+        "description": "A scrumptious veggie patty topped with lettuce, onion, cheesy spread and Burger Singh's secret sauce!"
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Paneer Royale Burger",
+        "img": "https://lh3.googleusercontent.com/ItWN73gILNgIs2xfyxFf495BmjmNsoiCBe_SqzdNaAnMHIHTNBS0v9RwJCdhJBb3V_DSAn-dKq-CSjEG1OxDU4jRtvOJ3sPmcYw6eT1hWQ",
+        "options": [
+            {
+                "Full": "100"
+            }
+        ],
+        "description": "Thick Paneer Patty, loads of sauces in soft square masala buns. It's Royally Paneer."
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Crispy Veg Double Patty Burger",
+        "img": "https://lh3.googleusercontent.com/tbSgmyHlCvnLgP99ugT9T_1TYqWlOPZxYBaeMQh7AoAfsIPiEuYtL6b3nYAoIWk2_Db0MLhStC8zwrnmxtYa8fiZNjrwyzDMa8aTjtmRZw=w512-rw",
+        "options": [
+            {
+                "Full": "120"
+            }
+        ],
+        "description": "Our Best-Selling Burger With Crispy Veg Double Patty, Fresh Onion And Our Signature Sauce"
+    },
+    {
+        "CategoryName": "Burger",
+        "name": "Veg Surprise Burger",
+        "img": "https://lh3.googleusercontent.com/fBU8gKl_Fc_X4UPWF0aP4TTSl2n4aWp8NhcxFh4ZsimEo6YC3Wjo-PXtHPUCbKh7EyERkuuC0dIe_IyBnfWJqFdeEe92Mr4vnuNJyqW7",
+        "options": [
+            {
+                "Full": ""
+            }
+        ],
+        "description": "Juicy Vegetable Patty, layered in creamy mayo, chipotle, topped with fresh veggies, and a hidden surprise."
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Plain Roti",
+        "img": "https://lh3.googleusercontent.com/DtJctwJi9o45rkGqo99Jr393JrfOU3-QJPrv5bGY89y9W6f2dDNReHfZgkWTQtnwJvyGhB9KZe35qhZck9Hew9psuEE5d67imXkc3CU",
+        "options": [
+            {
+                "Full": "5"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Butter Tawa Roti",
+        "img": "https://lh3.googleusercontent.com/STpvhwkXRLChW84-pwG0y5OKxvCE9MLFmBATKWUeUaY_y3XpWurwT49zfGs5qGGelmpOX4dXxwr26fuXAr7oovDnULwwUhnZ5yT8JIQ_QA",
+        "options": [
+            {
+                "Full": "7"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Plain Butter Tawa Paratha",
+        "img": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2017/Extras/Tawa_Paratha_Recipe-7956_400.jpg",
+        "options": [
+            {
+                "Full": "11"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Tawa Laccha Parantha",
+        "img": "https://lh3.googleusercontent.com/1QQWmHbgiQ3rTqqzwx8qRXJVrWL3FowxvVVb-a0g_sZZEBu8E__fJMjPxqIRrBvJV0w1YsT7uAaSYGV67ctmHA4h9KVz3POE4pZ2AY0v=w512-rw",
+        "options": [
+            {
+                "Full": "15"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Plain Naan",
+        "img": "https://lh3.googleusercontent.com/J49FTjkoqk806eVqDdNaXghWORWrW5Gf_kCzV81avkFBDjdmeyjuRfo5VUeFyXtG7gWuMNXsYS3cYkahjRuR2z7WrBWJatd-YIF-rcc=w512-rw",
+        "options": [
+            {
+                "Full": "15"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Butter Naan",
+        "img": "https://lh3.googleusercontent.com/SBTckqoTDycENUqoEVZtfta8hdArlGOSWO5pGuR0c7zFxvTOx-bse2Drmbn9ZNRDHaepF8g3CYZ52qmapbOYF9dhw6kI6MqyVQP8-jI=w512-rw",
+        "options": [
+            {
+                "Full": "20"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Rumali Roti",
+        "img": "https://lh3.googleusercontent.com/U3gylt-WREXrOsFJMF2A1oiyhlZR04aZVgxFpeA5jIXeOO68WPqtfHxFFCcxqYgVFSmQDTW3rlXt_XFyaOB2_MHBfXVPg6PIfZfRHEqS=w512-rw",
+        "options": [
+            {
+                "Full": "15"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Breads",
+        "name": "Garlic Naan",
+        "img": "https://lh3.googleusercontent.com/lQNReT4Fw2jEXcAovpmhRIQcjirMGiqKfH8WcjI7lT_0eXhHFgmK2uydmTNwEd6MpAZJ8EZ6vn3a_i5n4SAkJWspDXrry6cwPCXMSYjmtQ=w512-rw",
+        "options": [
+            {
+                "Full": "25"
+            }
+        ],
+        "description": ""
+    },
+    {
+        "CategoryName": "Fries",
+        "name": "Garlic Fries",
+        "img": "https://lh3.googleusercontent.com/ARHESMn6um-EawdZgiluvYx7cDBbS8ufQxYDp52kX5LPkqLX6QemB9irhv3MCrnknWu6kBvGOlGVvGHjOl3PHewlWiRpJKhC2QzeqXlRQQ=w512-rw",
+        "options": [
+            {
+                "Small": "30",
+                "Medium": "60",
+                "Large": "90"
+            }
+        ],
+        "description": "Garlic, baking potatoes, canola oil"
+    },
+    {
+        "CategoryName": "Fries",
+        "name": "Peri Peri Fries",
+        "img": "https://lh3.googleusercontent.com/3pZlz5v9iSkuoV-84vKHogQKYVYb40MZtNwW6M57i8xnSo4zHVjYCXiQDMbGDE-ppRKYNv6OzJXc7b7-teVcOs2o9dOzJZKILtaigJvJ4g=w512-rw",
+        "options": [
+            {
+                "Small": "60",
+                "Medium": "120",
+                "Large": "180"
+            }
+        ],
+        "description": "Peri peri, frozen french fries, potatoes"
+    },
+    {
+        "CategoryName": "Fries",
+        "name": "Cheesy Fries",
+        "img": "https://lh3.googleusercontent.com/kXoBmq68FHBXo8A_ujzwXskqxpzGzjbeL-GsWkTr6vXCTzXEeT2E7f9m671YBfZhC_3qry2qLzpKBEZ_QtouNYLoVcQBAg061RsB4zi_=w512-rw",
+        "options": [
+            {
+                "Small": "45",
+                "Medium": "75",
+                "Large": "99"
+            }
+        ],
+        "description": "Hi, it’s cheese on this side! The all-time favourite fries with a generous dollop of cheesy yet smoky chipotle sauce."
+    },
+    {
+        "CategoryName": "Fries",
+        "name": "Tandoori Fries",
+        "img": "https://scontent.fdel20-1.fna.fbcdn.net/v/t1.6435-9/168461925_3758914837531223_8305317823331273336_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a26aad&_nc_ohc=-SxdapOuqUMAX9hz1j5&_nc_ht=scontent.fdel20-1.fna&oh=00_AfB8Ul4_Xoj8GR6-PrRkBxUB7xWaih77FEUhArr4yOhHCA&oe=64B61A47",
+        "options": [
+            {
+                "Small": "50",
+                "Medium": "100",
+                "Large": "120"
+            }
+        ],
+        "description": "Tandoori Masala Fries. Crispy, crunchy, hot Tandoori Masala Fries made with a handful of ingredients."
+    },
+    {
+        "CategoryName": "Fries",
+        "name": "Cheese Baked Fries",
+        "img": "https://stordfkenticomedia.blob.core.windows.net/df-us/rms/media/recipemediafiles/recipes/retail/x17/18932-loaded-baked-potato-cheese-fries-760x580.jpg?ext=.jpg",
+        "options": [
+            {
+                "Small": "55",
+                "Medium": "88",
+                "Large": "110"
+            }
+        ],
+        "description": "Sour cream, cheddar cheese, buttermilk, olive oil, lemon juice."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Chole Bhature",
+        "img": "https://www.cookforindia.com/wp-content/uploads/2015/12/chole-bhature-cover.jpg",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "80"
+            }
+        ],
+        "description": "Chole masala, yogurt, ginger, cinnamon, tomatoes."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Rajma Chawal",
+        "img": "https://i0.wp.com/www.onegreenplanet.org/wp-content/uploads/2022/10/punjabi-rajma-masala.jpg?fit=2438%2C2119&ssl=1",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "100"
+            }
+        ],
+        "description": "Rajma, dried kidney beans, low fat, garam masala, ginger"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Kadhi Chawal",
+        "img": "https://thefoodscape.files.wordpress.com/2016/04/img_05751.jpg?w=940",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "90"
+            }
+        ],
+        "description": "Basmati rice, gram flour, curd, curry leaves, chili powder"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Chole Chawal",
+        "img": "https://everbake.co/wp-content/uploads/2021/07/CHOLE-CHAWAL.jpg",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "100"
+            }
+        ],
+        "description": "A classic Indian dish made with whole chick peas with green chillies and aromatic spices cooked in a tangy tomato curry."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Dal Makhni",
+        "img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/dal-makhani-recipe.jpg",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "90"
+            }
+        ],
+        "description": "Red kidney beans, whole urad dal, whipping cream, garam masala, green."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Shahi Paneer",
+        "img": "https://profusioncurry.com/wp-content/uploads/2022/07/Shahi-paneer-recipe-served-with-garnishes.jpg",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "130"
+            }
+        ],
+        "description": "Paneer, cream, badam, garam masala, kewra water."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Tawa Paneer",
+        "img": "https://www.ruchikrandhap.com/wp-content/uploads/2016/03/TawaPaneer28129-1-1-426x500.jpg",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "125"
+            }
+        ],
+        "description": "Pav bhaji masala, paneer, hung curd, garam masala, butter."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Dal Fry",
+        "img": "https://spicecravings.com/wp-content/uploads/2021/05/Dal-Tadka-Featured.jpg",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "120"
+            }
+        ],
+        "description": "Masoor dal, garam masala, smoked paprika, kasuri methi, curry leaves."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Dal Tadka ",
+        "img": "https://www.mygingergarlickitchen.com/wp-content/rich-markup-images/1x1/1x1-restaurant-style-tadka-dal-recipe-how-to-make-dal-tadka.jpg",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "180"
+            }
+        ],
+        "description": "Masoor dal, charcoal, low fat, garam masala, ginger."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Malai Kofta",
+        "img": "https://www.carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe-500x500.jpg",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "140"
+            }
+        ],
+        "description": "Paneer, potato, cream, corn flour, garam masala."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Jeera Aloo",
+        "img": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/02/Jeera-Aloo-Recipe-500x500.jpg",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "80"
+            }
+        ],
+        "description": "Potatoes, lemon, ginger, green chilies, chili powder."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Paneer Korma",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2020/10/Shahi-Paneer-Korma-2-3.jpg",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "130"
+            }
+        ],
+        "description": "Using coconut milk, paneer, star anise, poppy seeds, fresh coconut."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Aloo Gobi",
+        "img": "https://niksharmacooks.com/wp-content/uploads/2022/11/AlooGobiDSC_5234.jpg",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ],
+        "description": "Potatoes, tomato paste, garam masala, kasuri methi, green chili."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Soya Chaap Gravy",
+        "img": "https://www.funfoodfrolic.com/wp-content/uploads/2022/08/Soya-Chaap-Blog.jpg",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "90"
+            }
+        ],
+        "description": "Soya chaap, yogurt, garam masala, tomato, kasuri methi."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Paneer Do Pyaza",
+        "img": "https://static.toiimg.com/thumb/59628941.cms?imgsize=364393&width=800&height=800",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "140"
+            }
+        ],
+        "description": "Cottage cheese, garam masala, curd, kasuri methi, capsicum."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Paneer Bhurji",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2021/04/Paneer-Bhurji-2-3-1.jpg",
+        "options": [
+            {
+                "Half": "55",
+                "Full": "99"
+            }
+        ],
+        "description": "Cottage cheese, garam masala, tomatoes, white butter, cayenne pepper"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Dosa",
+        "img": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/Masala-Dosa-500x500.jpg",
+        "options": [
+            {
+                "Full": "90"
+            }
+        ],
+        "description": "Urad dal, idli rice, thick poha, rock salt, methi dana"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Idli Sambhar",
+        "img": "https://www.mapsofindia.com/ci-moi-images/my-india/Idli-Sambhar.jpg",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "100"
+            }
+        ],
+        "description": "Pearl onions, potato, toor dal, drumsticks, french beans"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Vada Sambhar ",
+        "img": "https://i0.wp.com/www.blissofcooking.com/wp-content/uploads/2018/09/Vada-Sambar-MOP.jpg?resize=740%2C493&ssl=1",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "60"
+            }
+        ],
+        "description": "Bottle gourd, chana dal, roasted chana dal, urad dal, toor dal"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Uttapam",
+        "img": "https://www.cookwithkushi.com/wp-content/uploads/2016/01/vegetable_uttapam_dosa_recipe.jpg",
+        "options": [
+            {
+                "Half": "30",
+                "Full": "60"
+            }
+        ],
+        "description": "Chana dal, urad dal, idli rice, thick poha, tomato."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Dal Bati Churma",
+        "img": "https://vaya.in/recipes/wp-content/uploads/2018/04/dal-bati-churma.jpg",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "100"
+            }
+        ],
+        "description": "Green moong dal, chana dal, whole wheat flour, rava, urad dal"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Kathiyawadi Undhiyu",
+        "img": "https://www.carveyourcraving.com/wp-content/uploads/2019/09/undhiyu-pressure-cooker-indian.jpg",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "100"
+            }
+        ],
+        "description": "Sweet potato, raw banana, green pigeon peas, butter beans, yum!!"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Assamese Fish Curry",
+        "img": "https://green-travel-blog.com/wp-content/uploads/2019/07/AdobeStock_229328432.jpeg",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "100"
+            }
+        ],
+        "description": "Pineapple, fish, fresh turmeric, dried shrimp paste, bunga kantan."
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Machcher Jhol",
+        "img": "https://geekrobocook.com/wp-content/uploads/2021/04/Macher-jhol.jpg",
+        "options": [
+            {
+                "Half": "200",
+                "Full": "400"
+            }
+        ],
+        "description": "Rohu fish, potato, brinjal, panch phoron, garam masala powder"
+    },
+    {
+        "CategoryName": "Indian Cuisine",
+        "name": "Dalma",
+        "img": "https://static.toiimg.com/photo/msid-57267614,width-96,height-65.cms",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "170"
+            }
+        ],
+        "description": "Dalma is a chickpea dal from Orissa."
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Paneer Kurkure Momos",
+        "img": "https://cdn.dotpe.in/longtail/store-items/2179291/lnq8nQZ8.jpeg",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "100"
+            }
+        ],
+        "description": "Flour wrappers are filled with a healthy filling of Cottage Cheese and fried with a batter of Bread Crumbs to make an appetizing snack."
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Veg Afghani Momos",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/e1/cb/75/veg-afghani-momos-one.jpg",
+        "options": [
+            {
+                "Half": "85",
+                "Full": "105"
+            }
+        ],
+        "description": "Momos, cream, steamed chicken, curd, chaat masala."
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Tandoori Chicken Momos",
+        "img": "https://i0.wp.com/ezmail.simplefoodreviews.com/wp-content/uploads/2021/04/PAN-FRIED-TANDOORI-CHICKEN-MOMOS-by-Fiza-simplefoodreviews-mangalore.jpg?fit=1280%2C851&ssl=1",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "110"
+            }
+        ],
+        "description": "Seasoned and grilled to perfection in a tandoor, these momos are packed with flavor, texture, and a delicious taste."
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Paneer Momos Tandoori",
+        "img": "https://www.wearegurgaon.com/wp-content/uploads/2022/04/Tandoori-Momos-Nazims-Gurgaon.jpg",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "80"
+            }
+        ],
+        "description": "Made with juicy, spiced paneer, these momos are grilled to perfection in a tandoor, resulting in a delicious flavor."
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Veg Momos",
+        "img": "https://ifreezefood.com/wp-content/uploads/2020/10/Veg-1.jpg",
+        "options": [
+            {
+                "Half": "20",
+                "Full": "40"
+            }
+        ],
+        "description": "Veg momos are steamed dumplings stuffed with a lightly spiced vegetable filling."
+    },
+    {
+        "CategoryName": "Momos",
+        "name": "Chicken Momos",
+        "img": "https://www.iwmbuzz.com/wp-content/uploads/2022/06/easy-recipe-to-enjoy-simple-chicken-momos-at-home.png",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "100"
+            }
+        ],
+        "description": "Chicken mince flavoured with soy sauce, chilies, pepper are stuffed inside a thin flour dough filling and then steamed."
+    },
+    {
+        "CategoryName": "Noodles",
+        "name": "Chilly Garlic Noodles",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2020/02/Chilli-Garlic-Noodles-2-3.jpg",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "90"
+            }
+        ],
+        "description": "Jullienes of vegetables tossed with flour noodles in light soy sauce and chilli paste topped with burnt garlic."
+    },
+    {
+        "CategoryName": "Noodles",
+        "name": "Veg Hakka Noodles",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2020/10/Veg-Hakka-Noodles-2-3.jpg",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "110"
+            }
+        ],
+        "description": "Over 5 million sold till date!"
+    },
+    {
+        "CategoryName": "Noodles",
+        "name": "Veg Pad Thai Noodles",
+        "img": "https://pinchofyum.com/wp-content/uploads/Vegetarian-Pad-Thai-Recipe.jpg",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "140"
+            }
+        ],
+        "description": "A Thai streetside classic! Flat rice noodles tossed with bean sprout and garlic chives in a tangy tamarind and date palm sauce garnished with crushed peanuts."
+    },
+    {
+        "CategoryName": "Noodles",
+        "name": "Singapore Style Noodles",
+        "img": "https://i.pinimg.com/originals/83/07/b6/8307b60ec6dbadc1839bebd78558c307.jpg",
+        "options": [
+            {
+                "Half": "75",
+                "Full": "105"
+            }
+        ],
+        "description": "Jullienes of vegetables tossed with flour noodles in our in house sweet and tangy sauce garnished with spring onion."
+    },
+    {
+        "CategoryName": "Noodles",
+        "name": "Chicken Chilli Garlic Noodles",
+        "img": "https://butteroverbae.com/wp-content/uploads/2021/10/chili-garlic-noodles-8.jpg",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "180"
+            }
+        ],
+        "description": "Jullienes of chicken tossed with flour noodles in light soy sauce and chilli paste topped with burnt garlic."
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Veg Thali",
+        "img": "https://lh3.googleusercontent.com/X7OwZ5Zy0tV0uwYXgH685fouevnAg9i9CqKQTTm53q9XHKe8wRxvJx8_L6NXy0QaIArexrJyeL5RiLJu7GWylUEwTLXvAadZKYLPeZk=w512-rw",
+        "options": [
+            {
+                "Full": "100"
+            }
+        ],
+        "description": "Dal Makhani/Dal Tadka+Shahi Paneer/Kadai Paneer+2 Baby Lachha/2 Baby Naan+Rice +Raita+Chutney+Lachha Onion"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Non Veg Thali",
+        "img": "https://lh3.googleusercontent.com/RbFEVEZQ79snq8ZfhRtNx4aJZuhJRFF9ac7vnZ8ZGnoNERH55KY-Fxac8rccek0cNZmF1N4v-cu-cmpwyqhEnY2jBWZ-68jlzD0MoUib=w512-rw",
+        "options": [
+            {
+                "Full": "250"
+            }
+        ],
+        "description": "Butter Chicken/Kadai Chicken+Dal Makhani/Dal Tadka+2 Baby Lachha/2 Baby Naan+Rice+Raita+Chutney+Lachha Onion"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Tandoori Veg Platter",
+        "img": "https://lh3.googleusercontent.com/KrVAPeYJYt3ysUsg9Ad_SmrZpQKvfmtiseYleidHgCcZOzxHIeQJObFdqd3wKi2YxY38Q1qJEbW2KpQsAqZHjVijiz610igZqCuxR7NF=w512-rw",
+        "options": [
+            {
+                "Full": "150"
+            }
+        ],
+        "description": "Paneer Tikka [2 Pieces]+Malai Paneer Tikka [2 Pieces]+Soya Chaap Tandoori [2 Pieces]+Mushroom Tikka+2 Tandoori Roti"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Non Veg Tandoori Platter",
+        "img": "https://lh3.googleusercontent.com/xzN-zqc_08PAh0iqP67ZUXD8yZC4mxR-ZrOg0w5FuGRHWkhVjqvlDL-Z8QQXOkZrWUvVirinrA4TX2RcK9uLJhVehGKNSRKQJCx7SH0y=w512-rw",
+        "options": [
+            {
+                "Full": "300"
+            }
+        ],
+        "description": "Chicken Tikka [2 Pieces]+Malai Tikka [2 Pieces]+Fish Tikka [2 Pieces]+Seekh Kabab [2 Pieces]+2 Rumali roti"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Chinese Non Veg Platter",
+        "img": "https://lh3.googleusercontent.com/p0IqM0yrcPgsH6Q91rc_mJEnSAzcpb8IdtwsslbxyhvxKAQ1Ski_JpB-XktOiTVfMHRvmiRK4uuBOLr7ZYdoSNMTOzuAFf9zSUp4Uan1TA=w512-rw",
+        "options": [
+            {
+                "Full": "280"
+            }
+        ],
+        "description": "Chicken Manchurian Gravy+Chicken Hakka Noddles+Chicken Spring Roll+Chicken Fried Momos [2 Pieces]+Chilli Potato"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Chinese Veg Platter",
+        "img": "https://lh3.googleusercontent.com/YKOiAyCnVdgoEF46VbWxGwfP_2NIOV_HaoLJmxUvZ0g-O1C9JKMzNlxx1GwLSSUlr-3abnebo2kDL0wUCIiHBIKGK3YhC-Sdu7rNikpGFQ=w512-rw",
+        "options": [
+            {
+                "Full": "120"
+            }
+        ],
+        "description": "Veg Manchurian Gravy+Veg Noodles+Veg Fried Momos [2 Pieces]+Veg Spring Roll [2 Pieces]+Chilli Potato"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Veg Lachha Paratha Thali",
+        "img": "https://lh3.googleusercontent.com/EVyAMI24mzQy96xG0Gk1DbDXiZkb_dZy6yiAZVl526jybn0zG7Lj-iVY5U0Dt61ecwim1SWe_syHRwN_Ly2JcMcrWxQUK6yAwBHFDHID=w512-rw",
+        "options": [
+            {
+                "Full": "180"
+            }
+        ],
+        "description": "Shahi Paneer+Dal Makhani+Rice+2 Butter Tawa Lachha Paratha+Salad+Boondi Raita"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Non Veg Lachha Paratha Thali",
+        "img": "https://lh3.googleusercontent.com/Txq857mgVleWeCwi8lVHDHSOeU3liOnCa4kyRZxgSA0oNmpSPTBZCVJTg3Yc1lu1xMKDP32HElo51XdFs1BmR5cMxRjZCrcz_GZF1jey=w512-rw",
+        "options": [
+            {
+                "Full": "280"
+            }
+        ],
+        "description": "Butter Chicken+Dal Makhani+Rice+2 Butter Tawa Lachha Paratha+Salad+Boondi Raita"
+    },
+    {
+        "CategoryName": "Platter",
+        "name": "Kadhai Chicken Thali",
+        "img": "https://lh3.googleusercontent.com/QUbFsZkFEdS5iLP_pU-KG8mvKaZn7RJS9xC1JUX4pHYwSDUAGeGKPhnLOzH1VOyxNh7kY-keWprEvzsqjQkD4Iaf-Rye67S610vdIaDR",
+        "options": [
+            {
+                "Full": "300"
+            }
+        ],
+        "description": "Kadhai Chicken+Dal Makhani+Rice+2 Butter Tawa Lachha Paratha+Salad+Raita+Pickle"
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Peri Peri Chicken Wrap",
+        "img": "https://img-global.cpcdn.com/recipes/bf130e2c7e935656/680x482cq70/nandos-style-peri-peri-chicken-wrap-recipe-main-photo.jpg",
+        "options": [
+            {
+                "Full": "80"
+            }
+        ],
+        "description": "Tender chicken breast, crisp mixed lettuce & tomato,pickled red onions, 2 slices of cheese, topped withNando's creamy Perinaise"
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Masala Paneer Tikka Wrap",
+        "img": "https://cdn.urbanpiper.com/media/bizmedia/2022/10/21/lD9cT-4401.jpeg",
+        "options": [
+            {
+                "Full": "100"
+            }
+        ],
+        "description": "We dont have any pun for paneer, but we do have a lot of surprises in this exciting snack that we roll into this wrap. Fresh paneer is smoked to perfection & drizzled with minty, spicy mayonnaise & wrapped in soft roti."
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Cheese Melt Paneer Wrap",
+        "img": "https://cdn.urbanpiper.com/media/bizmedia/2022/12/16/AxQvWB-4405.jpeg",
+        "options": [
+            {
+                "Full": "80"
+            }
+        ],
+        "description": "Let the good times roll with surprises & flavour with this exciting snack Cottage cheese is seasoned with select spices, slathered with creamy, gooey cheese & snuggly wrapped in soft roti."
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Chicken Bhuna Wrap",
+        "img": "https://product-assets.faasos.io/production/product/image_1639388089100_Chicken_Bhuna_Wrap.jpg",
+        "options": [
+            {
+                "Full": "120"
+            }
+        ],
+        "description": "The bestseller, rock n roll award goes to: Roasted and flavorful chicken pieces slow-cooked in spicy bhuna masala and wrapped with crisp onions in a freshly made roti. Is it snack time yet."
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Cheesy Corn Salsa Wrap",
+        "img": "https://product-assets.faasos.io/production/product/image_1574271488511_Cheesy%20Corn%20Salsa%20Wrap.jpg",
+        "options": [
+            {
+                "Full": "110"
+            }
+        ],
+        "description": "Caution: Not your average snack! Mexican inspired corn salsa with a generous serving of cheese is wrapped in a soft roti. A combination oh-so unique with flavours on a roll"
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Veg Spring Roll",
+        "img": "https://hot-thai-kitchen.com/wp-content/uploads/2021/03/veggie-spring-rolls-blog.jpg",
+        "options": [
+            {
+                "Full": "30"
+            }
+        ],
+        "description": "Spring Rolls are crunchy from outside, with a spiced veggie filling from inside."
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Kurkure Paneer Spring Roll",
+        "img": "https://i.pinimg.com/originals/06/0f/2b/060f2b02b20677fde014b68c3ffe4914.jpg",
+        "options": [
+            {
+                "Full": "70"
+            }
+        ],
+        "description": "It is fried, crispy, loaded, saucy and has indulgence written all over it."
+    },
+    {
+        "CategoryName": "Rolls & Wraps",
+        "name": "Kurkure Spring Roll",
+        "img": "https://lh3.googleusercontent.com/SAsQAtZtX3myM_3ttf6lp3mjrjFL8hNtjoPbh52dsxky5i3Kee06VwQQaleVpFyxS0Hp7tOuhx8GdxI2v-eEH9XkrCMtaRs-5TTx3ZE=w512-rw",
+        "options": [
+            {
+                "Full": "100"
+            }
+        ],
+        "description": "A delectable spring roll stuffed with assorted veggies. Dipped in chatpata masala and coated with cornflakes, then fried and served hot. Served with tandoori and plain mayo on top."
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Paneer Tikka",
+        "img": "https://lh3.googleusercontent.com/_8jCO73AhI7iXAdzWNZp5l-Xo1NkHhZ-gNltRFSDGuu9MiMmJcxtCq_2zixZG2dgzUJsoAW-ghGXGfgehV-vEUjdAo2SVby2Yp0AOL7K=w512-rw",
+        "options": [
+            {
+                "Half": "100",
+                "Full": "200"
+            }
+        ],
+        "description": "Cottage cheese, greek yogurt, bell pepper, garam masala, mustard oil"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Paneer 65",
+        "img": "https://media.istockphoto.com/photos/paneer-tikka-kabab-in-red-sauce-is-an-indian-dish-made-from-chunks-of-picture-id1257507446?b=1&k=20&m=1257507446&s=170667a&w=0&h=Nd7QsslbvPqOcvwu1bY0rEPZXJqwoKTYCal3nty4X-Y=",
+        "options": [
+            {
+                "half": "150",
+                "full": "260"
+            }
+        ],
+        "description": "Paneer 65 is a spicy South Indian appetizer made with Paneer aka Indian cheese, flour, spices and herbs like curry leaves."
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Veg Seekh Kebab",
+        "img": "https://lh3.googleusercontent.com/M52_3t_hG87N6hWGCL5mmrgp8dqxyUJ_F_1AvzxeJT06k3YnU5NTMKkucHmo7I3PvcDCrEKxlDveeR5WVb0gIEbFdFTWtM-a6I_cAPGf=w512-rw",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "140"
+            }
+        ],
+        "description": "Matar, cabbage, beans, bread crumbs, garam masala powder"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Chilli Paneer",
+        "img": "https://lh3.googleusercontent.com/bQWtEcChMiARMqW1Y_6KK2ORivKTalV7-kLpzECiW3jvu4mW36OGmuODwu_kMld7Ncf999f4pchvOdKp_JmGyTNFj0UvWIO_WH7kaU4u",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "100"
+            }
+        ],
+        "description": "Paneer, soy sauce, spring onion, green bell pepper, chilli sauce"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Dahi Kabab",
+        "img": "https://lh3.googleusercontent.com/stxeyqtc6ATGrDN1hrtyEEP7FoLE-zPzX41yMSQBJWnFAJdJvHa3b6cp_oVW6ACJTJKgLC1udtiVULxwwGeFDPEaelT1o35mYJTuHMgu=w512-rw",
+        "options": [
+            {
+                "Half": "60",
+                "Full": "120"
+            }
+        ],
+        "description": "Greek yogurt, garam masala, gram flour, ginger, white pepper"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Veg Manchurian",
+        "img": "https://lh3.googleusercontent.com/eYSvDDwc4jb-0OOA_rRu9oT7grrhmkQpH9Aw-u-YGKQK5vcg2tdiPbnwHcRUuikCWTCa_BwBpV-GHayuh46-OdPE-EzNGGuAFpZ1xIQ=w512-rw",
+        "options": [
+            {
+                "Half": "70",
+                "Full": "100"
+            }
+        ],
+        "description": "Apple cider vinegar, chili sauce, cabbage, bell peppers, bread crumbs"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Honey Chilli Potato",
+        "img": "https://lh3.googleusercontent.com/Jtzbw_mjN9zg34YTfEOnRSMLJ95L9RNfhm60NtxHqiahAEkMeACwNQ6RQMXUx-7mj0__Ujyk19i4-nJ2oRjsOuhUZ1mi1Fwzy-RSFZ0=w512-rw",
+        "options": [
+            {
+                "Half": "50",
+                "Full": "90"
+            }
+        ],
+        "description": "Crispy Honey Chilli Potatoes are a super addictive snack - fried chilli potato fingers are tossed in a sesame honey chilli sauce that's sweet and spicy and will give you sticky fingers that you'll be licking clean!"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Aloo Paratha",
+        "img": "https://lh3.googleusercontent.com/C_oYH3Ca9nL-PiiZDz5ZwMj3X-pbuc123ncDuL_UBkidLuFemRlTLo9CqONx4uEknzvSyTZR745Clf_9MNPD8VqAUHms1K6bMk67VxlU=w512-rw",
+        "options": [
+            {
+                "Half": "20",
+                "Full": "40"
+            }
+        ],
+        "description": "Whole wheat flour, paratha, potatoes, garam masala, mango pickle"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Onion Paratha",
+        "img": "https://lh3.googleusercontent.com/Tvwc6xI-IdXb_0LEiSe2tfpglQBaqHtuoIhS3Y4A5COwSy2kLH4KEROUZLLC-fnXKTxG6lFHs69wnFCh99Yh4U-AkFH-8V558gRCDYg=w512-rw",
+        "options": [
+            {
+                "Half": "30",
+                "Full": "50"
+            }
+        ],
+        "description": "Onion Paratha are delicious whole wheat flatbreads stuffed with piquant onions, spicy green chillies and savory spices."
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Paneer Paratha",
+        "img": "https://lh3.googleusercontent.com/sXbKe9hye0JmjSLkOKkuByvexyC32yyP1xUyCk7odsY9G_nNjDNVMt8dyfHuZ--dk8HU6r-u6fLrUJVoI7Oxco9bO4wmuDEhhWGLUppK=w512-rw",
+        "options": [
+            {
+                "Half": "35",
+                "Full": "60"
+            }
+        ],
+        "description": "Paneer Paratha is an unleavened wheat flatbread stuffed with paneer aka Indian cottage cheese, spices and herbs."
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Gobi Paratha",
+        "img": "https://lh3.googleusercontent.com/r0pPsh13F1HRbnlWyNeTIXwUTs5v2y03MJPSIdqiIdKGB9j2zxJzWzG2xbsKsfh9LWRk4sX-wSxUip82NZXctd9KoNs0sdDJbjkVQYA=w512-rw",
+        "options": [
+            {
+                "Half": "40",
+                "Full": "60"
+            }
+        ],
+        "description": " Also known as Cauliflower paratha, these unleavened whole wheat flatbreads are stuffed with a savory, spiced grated cauliflower filling."
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Chicken Tikka",
+        "img": "https://lh3.googleusercontent.com/qFER2fcb0M7iIDoMOg9Kj78sSAIQ3Yg4NPwGoTCEA57csQiznZkREG9IqVI-vNB__41H_BIDk-Wk8WtVCaFoCCpZMUbXRZn_A7HhwBbZ=w512-rw",
+        "options": [
+            {
+                "Half": "80",
+                "Full": "150"
+            }
+        ],
+        "description": "Small pieces of boneless chicken baked using skewers on a brazier called angeethi or over charcoal after marinating in Indian spices and dahi (yogurt)"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Chicken Seekh Kebab",
+        "img": "https://lh3.googleusercontent.com/aGllb6FLRdLk6U0yTi75we3km2PowkCZ-IEarYA85krtAfpVr-dmT25-oRpZpv0bEG8IBJGYhF6xLEWXo9nGBKcNVOA95SJYfg8d5Mhk=w512-rw",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "150"
+            }
+        ],
+        "description": "Ground chicken, garam masala, carrot, olive oil, lime juice"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Egg Tikki Burger",
+        "img": "https://lh3.googleusercontent.com/Urmsod8Y37raP3_JxEnjI9LgVsfvXfnZRNmLX3yz7MK-QvZMwdSa3qUo4LTzdY4pmtH3aA2dux8XrPGcE_XXz-woymySqC7ysPQpscY6=w512-rw",
+        "options": [
+            {
+                "Full": "90"
+            }
+        ],
+        "description": "An unusual burger stuffed with baked egg mixture."
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Belgian Chocolate Milk Waffle",
+        "img": "https://lh3.googleusercontent.com/jGaVv-23xru-KznCivHv_52KAW417nJ17MJaaj7BCifInZOriP9USZtLtBtGUdrM9vYTewBbugRM62WKwBdOVWuu3tYZU5BIzY9t4N6m=w512-rw",
+        "options": [
+            {
+                "Full": "150"
+            }
+        ],
+        "description": "Classic Crispy Waffle + Melted Belgian Milk Chocolate. Simplicity At Its Best!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Chocolate Overload Dark Waffle",
+        "img": "https://lh3.googleusercontent.com/wrxMpBkphYwV21mNO_mGByC8kb9eQJRNR1pVnBpHuPmwJofAaNveALWf32aJVRjpxs_KmZIYXPZG_1UyiVM3MFedis_nzkjJhyKpECUc=w512-rw",
+        "options": [
+            {
+                "Full": "160"
+            }
+        ],
+        "description": "Signature Dark Chocolate Waffle + Melted Belgian Dark Chocolate. Double The Chocolate!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Triple Cookie",
+        "img": "https://s3.ap-south-1.amazonaws.com/shopnowchat.com/Medium/637925362685474708_TripleCookieWaffle.jpg",
+        "options": [
+            {
+                "Full": "100"
+            }
+        ],
+        "description": "Original Red Velvet Waffle + A Divine Combination Of Biscoff, Oreo And KitKat Bits In Melted White Chocolate And Vanilla Ice Cream. A Must Try Symphony Of Flavours And Textures."
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Death by Chocolate Waffle Cake",
+        "img": "https://lh3.googleusercontent.com/4_oIBkPM7vUIfHkvSkzI5H8XDK3OuP20SOc1FPz2tfuWkaQsxuJpxUpxkW_IlYpJLonTxIe-6LhLfNE--XQDxN9qbY-s2tkhv0OeGgx7vw",
+        "options": [
+            {
+                "Full": "230"
+            }
+        ],
+        "description": "Signature dark chocolate single layer waffle cake layered with creamy White, Milk and Dark melted Belgian Chocolate. Triple the chocolate, triple the fun!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Blueberry Creamcheese Waffle",
+        "img": "https://lh3.googleusercontent.com/cxqOwh_chk9cohhbvHfgoPLu7_Zm3PIOM818j-vW6sUGT891OroH1D2BfIVYPpxThFvAvA-WQ2P_ya4lZizjcSc9AyVV_mhyZQzKZiE=w512-rw",
+        "options": [
+            {
+                "Full": "245"
+            }
+        ],
+        "description": "Classic Crispy Waffle + Blueberry Compote Layered With Philadelphia Style Cream Cheese."
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Kiki & Oreo Cream Waffle",
+        "img": "https://s3.ap-south-1.amazonaws.com/shopnowchat.com/Medium/637922886974992491_KikiAndOreoCreamWaffle.jpg",
+        "options": [
+            {
+                "Full": "250"
+            }
+        ],
+        "description": "Signature Black Velvet Waffle + Our Special Blue Filling with Cookie Crunchy Oreo Bits Filling. Kiki Do You Love Me?"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Red Velvet Waffle",
+        "img": "https://images.heb.com/is/image/HEBGrocery/recipe-hm-large/red-velvet-waffles-recipe.jpg",
+        "options": [
+            {
+                "Full": "265"
+            }
+        ],
+        "description": "Original Red Velvet Waffle + Philadelphia style cream cheese and melted Belgian white chocolate."
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "ALIVE BY CHOCOLATES Donut",
+        "img": "https://assets.limetray.com/assets/user_images/menus/compressed/1675853360_unhideDeathbyChocolate.jpg",
+        "options": [
+            {
+                "Full": "280"
+            }
+        ],
+        "description": "Layers of chocolate with dark chocolate coating on a donut, bringing all your chocolate cravings to life!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Cookie Delight Donut",
+        "img": "https://lh3.googleusercontent.com/1bVr80cs20EupyxSEQl77an-CrDbaiD9TqPQIvYdZ8vFFDpCsVa5-yKqACTEwaxYUYJmDS5AeFA31U478hLAXye3rYyc4QQ8bSHZa5c",
+        "options": [
+            {
+                "Full": "199"
+            }
+        ],
+        "description": "A perfect recipe to bring delight, adding chocolate cookies & colourful confetti to your donut!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Butterscotch Crumble Donut",
+        "img": "https://www.bigbasket.com/media/uploads/p/l/800466469_1-donut-house-donut-butterscotch.jpg",
+        "options": [
+            {
+                "Full": "180"
+            }
+        ],
+        "description": "Taste the distinctness of butterscotch with the abundance of crumbs spread wide over a rich chocolate donut!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Red Velvet Crunch Donut",
+        "img": "https://everafterinthewoods.com/wp-content/uploads/how-to-make-red-velvet-donuts.jpg",
+        "options": [
+            {
+                "Full": "230"
+            }
+        ],
+        "description": "https://everafterinthewoods.com/wp-content/uploads/how-to-make-red-velvet-donuts.jpg"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "RAINBOW POP Donut",
+        "img": "https://lh3.googleusercontent.com/lX9Qt0AtYTYJsMfTqieMPeI6rRoBaGv2zhEbYQKkYM8wuVAkJec0PIs2fbNCFEdC29u00_pJmNJFliJNx9BwrzUrqS8JWMDmLuUF2wgw",
+        "options": [
+            {
+                "Full": "199"
+            }
+        ],
+        "description": "Our soft donut, sprinkled with multi coloured sugar confetti! A rainbow for your sight!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Chocolate Frosted Donut",
+        "img": "https://lh3.googleusercontent.com/Q87aJt24Y_Spsf5_sfYjk8xB5yso23D6C7XtzB0HEdUE_gukJc45ROhWHKmk2rjOCrigIvZTW1-QSGqc9OvE2aj_8aaBFsfl1nzLqICw=w512-rw",
+        "options": [
+            {
+                "Full": "180"
+            }
+        ],
+        "description": "A Soft fluffy donut loaded with chocolate and a rich white chocolate icing on the top!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Black Forest Donut",
+        "img": "https://64.media.tumblr.com/5f67ead454123707c821a4454304f4a8/tumblr_ohmvilVfOe1qlcxsdo1_500.jpg",
+        "options": [
+            {
+                "Full": "175"
+            }
+        ],
+        "description": "A soft donut with tempting layers of chocolate decorated with whipped cream & cherry! An irrefutable affair!"
+    },
+    {
+        "CategoryName": "Waffles & Donuts",
+        "name": "Very Very Strawberry Donut",
+        "img": "https://lh3.googleusercontent.com/xsk1CDSBfjdahClEXuOzpS92OxtOi8nIbEB_2VF9ZlUDQU4nSmuFpQQyYQTp8_wfSIRdzQdwXZ0NKstXzGEDdnXmqzV2kuxYZBJpARLS",
+        "options": [
+            {
+                "Full": "170"
+            }
+        ],
+        "description": "Strawberry Flavoured chocolate donut with an irresistible strawberry centre!"
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Kadai Chicken",
+        "img": "https://lh3.googleusercontent.com/07jgY43mtUBfsPcWUo82aZytGr-BaK0DtnHJ3vOmso32qLuUrUkb2vOJACi3FftOTjBAmGlX0shH8mvMx8sW8uKLkMys9hYycPb3K60E=w512-rw",
+        "options": [
+            {
+                "Half": "90",
+                "Full": "180"
+            }
+        ],
+        "description": "Kadai Chicken (Chicken Karahi Curry) is a delicious Indian chicken curry where chicken is cooked with freshly ground spices."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Butter Chicken",
+        "img": "https://lh3.googleusercontent.com/cN8G4Hmd4kVLolC37qUuIYNltjLMb5cVZNr15pfPlahvxn29XoCood6ZUj4x0_ABzvohaUEuUUuv1rDMooL6VRYCPjqWhkvsLsAUjyM=w512-rw",
+        "options": [
+            {
+                "Half": "100",
+                "Full": "200"
+            }
+        ],
+        "description": "Made from chicken with a spiced tomato and butter (makhan) sauce."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Dum Murgh Keema",
+        "img": "https://lh3.googleusercontent.com/wcK4RL-94UOLOtAiULUesSpceENlzBxHGdVzyAPa9alb-kpr909Qs_tHIaJixfs6CXkK8BqBlrqdx4lVN7HqHh3xv9gd8q_OzrpGlyOzLA",
+        "options": [
+            {
+                "Half": "200",
+                "Full": "350"
+            }
+        ],
+        "description": "When tender & juicy chicken is finely minced and slow-cooked with Behrouz's shahi masalas, you are bound to have a memorable daawat! Garnished with fresh coriander leaves, enjoy this shahi delicacy with your choice of bread."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Murgh Haleem Kebab",
+        "img": "https://lh3.googleusercontent.com/tB5zisjLgSxzl8nuqCxpRFpz_gY6Ar7sIuSuOjDCCElnP7jTn_T37QE3vogPuaTD6-rGqbgzVw0PAqUtsg7zLwtlLYt-mzkakqDqDbY=w512-rw",
+        "options": [
+            {
+                "Half": "190",
+                "Full": "320"
+            }
+        ],
+        "description": "Crafted by Celebrity Chef Kunal Kapur slow-cooked haleem, a speciality of Mehfil-e-Ramadan is fused with Hyderabadi spices, rolled into elegant kebabs & char-grilled to perfection in ghee."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Murgh Makhani",
+        "img": "https://lh3.googleusercontent.com/ZQDSeMoMHGkf0HFSNYJ4_2Mv7w9nUWxzzOvBOX_AlD6NMB1kYIlEjUqGsEKQTWa9NvjlCAlLwqBsc1JqkyRvU7PdAc3VvNnAo3-sjtY=w512-rw",
+        "options": [
+            {
+                "Half": "120",
+                "Full": "240"
+            }
+        ],
+        "description": "Tender chicken pieces cooked in creamy butter chicken gravy, layered with aromatic basmati rice and dum pukht in its full glory. A royal fusion between two of Indias most beloved dishes."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Murgh Malai Kebab",
+        "img": "https://lh3.googleusercontent.com/77EoY_U81J-m3Dp_pyPblG68LN7VLP-QvoibMPahxRRfbXhZUpW8njT1acEukrUUZyvQ4iTeHuwsF4H8zbsinhwPvFraaqYJQ31DU1rk=w512-rw",
+        "options": [
+            {
+                "Half": "250",
+                "Full": "400"
+            }
+        ],
+        "description": "Brimming with impeccable flavours this rich kebab delicacy is as delectable as it is charming. Succulent chicken pieces are eloquently spiced with royal spices and then grilled to perfection to lend it the fascinating smoky flavour."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Gosht-E-Galouti Kebab",
+        "img": "https://lh3.googleusercontent.com/CITPVf_EuPgspH6lcu8v_tL2Tspxa6iEoNo-TzjPM-i29PnZYq_bSfoWwYtmmcMaOnOoGDsTEPF99aJziPdaqxvVU66erwHaGf8FkmkA=w512-rw",
+        "options": [
+            {
+                "Half": "260",
+                "Full": "400"
+            }
+        ],
+        "description": "https://lh3.googleusercontent.com/CITPVf_EuPgspH6lcu8v_tL2Tspxa6iEoNo-TzjPM-i29PnZYq_bSfoWwYtmmcMaOnOoGDsTEPF99aJziPdaqxvVU66erwHaGf8FkmkA=w512-rw"
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Prawn Curry",
+        "img": "https://lh3.googleusercontent.com/rbyMbpwifl7f05LmRL6i05dcCRc07nGFFIf3m1N947FcP8A5SLlwqQrh2HYAGx4BqF-yRcbkOpSZ9JywYxy2qJbx2Oq3rmCpQZ_5oUo=w512-rw",
+        "options": [
+            {
+                "Half": "230",
+                "Full": "410"
+            }
+        ],
+        "description": "Pounds large ​prawns, or tiger prawns ; large onions ; medium tomatoes ; green chiles ; tablespoons vegetable oil. "
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Chicken 65",
+        "img": "https://lh3.googleusercontent.com/mHB3pEWpL6Vhs7cBMWcQIrt1NuWRmX_IBBRJxZY6nbWtYq50jBZqZmhnIeUF6-Znd9fJfK8Kz3vyyP0CW6edUJdHGa4NfnzAXbUgmwt2=w512-rw",
+        "options": [
+            {
+                "Half": "100",
+                "Full": "220"
+            }
+        ],
+        "description": "Chicken 65 is a popular South Indian Chicken appetizer made by deep frying marinated chicken with curry leaves and green chilies."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Kadhai Chicken",
+        "img": "https://lh3.googleusercontent.com/CV9UscoMcpa8xSgtWGHOtCfd9V851qpLgEjUotflwUoeW4KeRewhsA_QrBBRU2ackj1CkHOc-cHEctPecn6W8TQYM8CpWeb1BofTh86i=w512-rw",
+        "options": [
+            {
+                "Half": "150",
+                "Full": "300"
+            }
+        ],
+        "description": "Chicken prepared in spicy curry"
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Tandoori Chicken",
+        "img": "https://lh3.googleusercontent.com/eWquBotN3Bin8TQgxcEgtthk9PEDzHRzbZu6KMIigDsKKz_4QBm_QIOYtvKxBQuVu2NcrRcfnVtCpIAZzCee8SO5HWox99mQU44xjQE5=w512-rw",
+        "options": [
+            {
+                "Half": "110",
+                "Full": "280"
+            }
+        ],
+        "description": "Marinated grilled chicken."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Chicken Rezala",
+        "img": "https://lh3.googleusercontent.com/HzQqfLyzJenZgEh0mVgXfEaalqZrr2QgF7Q17jWq9PWzLV6Eob7ru0txO6ivtJ5kg5BB-Syc1Xs_Opyz2mYVyLUDV0MPuOX5w5LcovKR",
+        "options": [
+            {
+                "Half": "200",
+                "Full": "300"
+            }
+        ],
+        "description": "Chicken Rezala is a creamy and rich Mughlai curry prepared with chicken, yogurt, cashews, poppy seeds, and a few whole spices."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Rogan Josh",
+        "img": "https://lh3.googleusercontent.com/Hh6hzXrkzRaY-gngRtQopUBim8lQPEmf-T9Lg_PEroEe7CT6dvIiC7SXHNxsLa0G5d25l4okM0YpivbX0RcVQB5Dfn_MnCgvIKOpD4GsnA",
+        "options": [
+            {
+                "Half": "150",
+                "Full": "250"
+            }
+        ],
+        "description": "Rogan Josh, a classic comfort food from the Kashmiri Cuisine is a slow cooked dish made with lamb, spices, herbs and yogurt."
+    },
+    {
+        "CategoryName": "Chicken",
+        "name": "Shalgam Gosht",
+        "img": "https://www.whiskaffair.com/wp-content/uploads/2015/12/Shalgam-Gosht-4.jpg",
+        "options": [
+            {
+                "Half": "199",
+                "Full": "399"
+            }
+        ],
+        "description": "Shalgam Gosht or Mutton Lamb Curry with Turnip is a deliciously spicy meat dish that is slow cooked to imbibe the flavor of spices."
+    }
+]
