@@ -36,6 +36,9 @@
         "CategoryName": "Breads"
     },
     {
-        "CategoryName": "Biryani/Rice"
+        "CategoryName": "Biryani & Rice"
+    },
+    {
+        "CategoryName":"Desserts"
     }
 ]
