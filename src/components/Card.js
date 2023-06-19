@@ -45,39 +45,91 @@ export default function Card(props) {
     setSize(priceRef.current.value)
   },[])
   return (
-    <div>
-      <div>
-        <div
-          className="card mt-3 border-secondary"
-          style={{ width: "18rem", maxHeight: "" }}
-        >
-          <img src={props.foodItem.img} className="card-img-top" alt="..." style={{height:"180px", objectFit:"contain"}}/>
-          <div className="card-body">
-            <h5 className="card-title">{props.foodItem.name}</h5>
-            <p className="card-text">{props.desc}</p>
-            <div className="container w-100">
-              <select className="m-2 h-100 bg-warning rounded" onChange={(e)=> setQty(e.target.value) }>
-                {Array.from(Array(6), (e, i) => {
-                  return (
-                    <option key={i + 1} value={i + 1}>
-                      {i + 1}
-                    </option>
-                  );
-                })}
-              </select>
-              <select className="m-2 h-100 bg-warning rounded" ref={priceRef} onChange={(e)=> setSize(e.target.value) }>
-                {priceOptions?.map((data)=>{
-                  return <option key={data} value={data}>{data}</option>
-                })}
-              </select>
+    // <div>
+    //   <div>
+    //     <div
+    //       className="card mt-3 border-secondary"
+    //       style={{ width: "18rem", maxHeight: "30rem", border: '10px solid red' }}
+    //     >
+    //       <img src={props.foodItem.img} className="card-img-top" alt="..." style={{ height:"10rem",  objectFit:"cover"}}/>
+    //       <div className="card-body" style={{
+    //         height: "18rem"
+    //       }}>
+    //         <h5 className="card-title" style={{
+    //           textAlign: "center"
+    //         }}>{props.foodItem.name}</h5>
+    //         <p className="card-text item_food_cards" style={{
+    //           minHeight: "4rem"
+    //         }}>{props.desc}</p>
+    //         <div className="container w-100">
+    //           <select className="m-2 h-100 bg-warning rounded" onChange={(e)=> setQty(e.target.value) }>
+    //             {Array.from(Array(6), (e, i) => {
+    //               return (
+    //                 <option key={i + 1} value={i + 1}>
+    //                   {i + 1}
+    //                 </option>
+    //               );
+    //             })}
+    //           </select>
+    //           <select className="m-2 h-100 bg-warning rounded" ref={priceRef} onChange={(e)=> setSize(e.target.value) }>
+    //             {priceOptions?.map((data)=>{
+    //               return <option key={data} value={data}>{data}</option>
+    //             })}
+    //           </select>
 
-              <div className="d-inline h-100 fs-5">
-                ₹{finalPrice}/-
-              </div>
-            </div>
-            <hr></hr>
-            <button className={'btn btn-warning justify-center ms-2'} onClick={handleAddToCart}>Add to Cart</button>
-          </div>
+    //           <div className="d-inline h-100 fs-5">
+    //             ₹{finalPrice}/-
+    //           </div>
+    //         </div>
+    //         <hr></hr>
+            
+    //       </div>
+    //       <div style={{
+    //           display: "flex",
+    //           justifyContent: 'center',
+    //           alignItems: 'center',
+              
+    //         }}>
+
+    //         <button className={'btn btn-warning justify-center ms-2 w-100'} onClick={handleAddToCart}>Add to Cart</button>
+    //         </div>
+    //     </div>
+    //   </div>
+    // </div>
+    <div className="card_main_container"> 
+        <span><img src={props.foodItem.img} className="card-img-top" alt="..." style={{ height:"10rem",  objectFit:"cover"}}/> </span>
+      <div className="card_main_inner">
+        <span className="card_main_header">
+        <h5 className="card-title item_food_card_title">{props.foodItem.name}</h5>
+        </span>
+        <div style={{
+          minHeight: "5rem"
+        }}>
+        <p className="item_food_cards">{props.desc}</p>  
+        </div>
+         <div className="card_footer_container ">
+              <select className="bg-warning rounded cards_item_select" onChange={(e)=> setQty(e.target.value) }>
+                 {Array.from(Array(6), (e, i) => {
+                   return (
+                     <option key={i + 1} value={i + 1}>
+                       {i + 1}
+                     </option>
+                   );
+                 })}
+               </select>
+               <select className="bg-warning rounded cards_item_select" ref={priceRef} onChange={(e)=> setSize(e.target.value) }>
+                 {priceOptions?.map((data)=>{
+                   return <option key={data} value={data}>{data}</option>
+                 })}
+               </select>
+
+               <div className="">
+                 ₹{finalPrice}/-
+               </div>
+             </div>
+                 <hr />
+        <div className="card_footer_button">
+        <button className={'btn btn-warning justify-center'} onClick={handleAddToCart}>Add to Cart</button>
         </div>
       </div>
     </div>
