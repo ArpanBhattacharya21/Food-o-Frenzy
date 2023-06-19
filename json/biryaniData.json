@@ -1,0 +1,170 @@
+[
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Hyderabadi Chicken Dum Biryani",
+        "img": "https://lh3.googleusercontent.com/Ew-GupwdN2gU1x8GMyVc1Hm9yXPilIO6dC_kBDW_B1Rx5_lfRnTBw7M4Lppii-b1Nzxq8guxo7D9NyP61WMNnE7XcWhkc1XI9lsLo9_SXw=w512-rw",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "Hyderabadi Chicken Biryani with boneless chicken pieces and served with Raita"
+    },
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Hyderabadi Paneer Biryani",
+        "img": "https://lh3.googleusercontent.com/RhOA5xZGAMo9BcDw8rLIc0nInHKPQ5G8IKnoXK3PVPgGX4Cwac-9AHxJlgzBSj6huN0jJL8bIw1YGQqlC6S4i-0MnkXNOIuGjvbrBXwgaA=w512-rw",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "https://lh3.googleusercontent.com/RhOA5xZGAMo9BcDw8rLIc0nInHKPQ5G8IKnoXK3PVPgGX4Cwac-9AHxJlgzBSj6huN0jJL8bIw1YGQqlC6S4i-0MnkXNOIuGjvbrBXwgaA=w512-rw"
+    },
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Soya Chaap Biryani",
+        "img": "",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "https://lh3.googleusercontent.com/_Dwe1x9VuvXKp4fNzZrYzba4mVtB-iJPMEpmTBghzAtjrAbf28djMxuGVI3-ZiRTqpoXqy8zfoixdV7BVTfFOCl11_lAFk3QLPHPamY3nw"
+    },
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Egg Biryani",
+        "img": "https://lh3.googleusercontent.com/KhqR3Rv4gkW__qWf1p9qd3aiqF1DO-lPrYfpHTluJVdxznYmc2spVcf8elXuuFNqZeBTLcnTuWIlMklbX5B4_82EP1Rb64B76Bvp-uxR=w512-rw",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "Spicy Fried boiled eggs layered with Biryani Rice and served with Raita."
+    },
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Lucknowi Mutton Biryani",
+        "img": "https://lh3.googleusercontent.com/ew9wqs2EBLvlm3agXktWJAiB-jlr-oiJ0DtJWrFUrZWoZM2MI3bSIMvUOPgL5JwYlXjoqUmOSMwYlMIbJeITQKd63MFv8ACOkKNeIgla=w512-rw",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "Delicately Spiced Lucknowi Mutton Pukki Biryani served with Raita"
+    },
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Keema Biryani",
+        "img": "https://lh3.googleusercontent.com/T-Sx99lJyPtwZBPUV0esYIySlkcSzXr3fIjyE4CvL3L1vE_fcOceUqwQaidEWMcpoHi_1Hru8aU_X8mLWDV3kHO6i45NBPg1v6OTZUHG=w512-rw",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "Spicy Mutton Keema layered with Hyderabadi Biryani Rice served with Raita."
+    },
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Veg Fried Rice",
+        "img": "https://lh3.googleusercontent.com/npEBanNQSSj3vN06TplMZ4UpjfjZ-a7mMWOc3yyiNQ_ZB84_ZAWzangFYtHpETbUkV-9ZurkEeWKh1VL-uN8b3gltAa_cj25-u_C3TIUPg=w512-rw",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "Long grain steamed rice wok tossed with fresh vegetables"
+    },
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Veg Garlic Fried Rice",
+        "img": "https://lh3.googleusercontent.com/VIMxNsuRIQC13hBzSdyvPK6hA9acidwOGUR_NNsNC8E0LLqsN9TlJtuWold8dZjdvI_W7OPEJVYrcgHNH78wvfy9SnNeixp7h9gwyvus",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "Long grain steaned rice wok tossed with fresh vegetables with a strong puch of garlic"
+    },
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Chicken Garlic Fried Rice",
+        "img": "https://lh3.googleusercontent.com/G1MW3PpScZyap7jfUcQZ3NkEvu8JKH7xYISVz-p7MLziPHZT5HEWL9JtA8fhXRoKFwINyXyZXzPNplquNmCGhi1YXT6YeBuTRY3LHg6vQQ=w512-rw",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "Long grain steaned rice wok tossed with fresh vegetables, egg & chicken with a strong puch of garlic"
+    },
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Egg Chilli Garlic Fried Rice",
+        "img": "https://lh3.googleusercontent.com/6YmvYgwYWRRKr-4rh1U4AeWrr_6x49yytSr4-xsl9cEqmhsbwUGWVAoDUZjaMuCK6hKFBACDIC_8i2qtU0WI_XCnw3fhlQ93yDo6-2HF=w512-rw",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "Rice, 2 eggs with vegetable garlic ginger green chilli."
+    },
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Veg Pulao",
+        "img": "https://images.onlymyhealth.com//imported/images/2021/October/08_Oct_2021/bigrice.jpg",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "A pulao is a one pot dish of rice and vegetables or a protein cooked together with aromatics (onions, garlic, ginger etc), spices and herbs."
+    },
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Lemon Rice",
+        "img": "https://lh3.googleusercontent.com/B10fJtC5BhAAa5ZK9KR-FQ9IL0ckAjFb8-t5tiDhiFs4wZ5AlRylg5fCYwyC7j2-W59E0MtuXW0GRb3a7fbLGexpwFWR6K5xUuykBeI=w512-rw",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "Lemon Rice is a staple in many South Indian homes."
+    },
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Curd Rice",
+        "img": "https://lh3.googleusercontent.com/eR3UMweE9yrS02Q8eHnuoIn9-aijaQGqwDeIUtuvjOnNgzs_hwchcCjfCq0dUb5oSbdE0riXgnoyYOjyy8GcpDoaknrJ7VzMyck2nTvr=w512-rw",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "Curd rice is a South Indian dish made with precooked rice, curd, herbs & tempering spices."
+    },
+    {
+        "CategoryName": "Biryani & Rice",
+        "name": "Tomato Rice",
+        "img": "https://lh3.googleusercontent.com/lNuFigh53aI41RhJjEKOCKjbXmU96Gx1wdsEut3Zf1PaBm0a_GDaNkBQg_BIt8hWVWzIM1jhzOPS_kj2DF0yRTJLWITALAlyO-Dh5FGd=w512-rw",
+        "options": [
+            {
+                "Half":"",
+                "Full": ""
+            }
+        ],
+        "description": "Tomato Rice is a simple South Indian meal where rice is cooked with lots of tomatoes, fresh herbs, whole spices & ground spices."
+    }
+]
