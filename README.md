@@ -7,4 +7,4 @@ Development Team: <br>
 <a href="https://github.com/arpanbhattacharya21">Arpan Bhattacharya</a> <br>
 <hr>
 Idea Incorporated: February 21, 2023 <br>
-Development Period Start: March 2023
+Development Period Start: March 2023 - June 20, 2023
