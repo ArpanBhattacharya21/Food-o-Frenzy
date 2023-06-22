@@ -5,6 +5,8 @@ import Cart from '../screens/Cart';
 import Modal from '../Modal';
 import { useCart, useDispatchCart } from "./contextReducer";
 import brand from "../Photos/Logo.png";
+import { toast, ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.min.css';
 
 
 export default function Navbar() {
@@ -22,8 +24,12 @@ export default function Navbar() {
   //console.log(data, "ARPAN IS A GOOD BOY")
   const handleLogout = () => {  
     localStorage.removeItem("authToken");
-    localStorage.removeItem("cart_item")
-    navigate("/");
+    localStorage.removeItem("cart_item");
+    toast.error("Logged Out!");
+    //navigate("/");
+    setTimeout(() => {
+      navigate('/');
+    }, 2000);
   };
 
   return (
@@ -92,6 +98,20 @@ export default function Navbar() {
           </div>
         </div>
       </nav>
+      <div>
+        <ToastContainer
+          position="bottom-center"
+          autoClose={2000}
+          hideProgressBar={false}
+          newestOnTop={false}
+          closeOnClick
+          rtl={false}
+          pauseOnFocusLoss
+          draggable
+          pauseOnHover
+          theme="light"
+        />
+      </div>
     </div>
   );
 }

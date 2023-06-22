@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { useDispatchCart, useCart } from "./contextReducer";
+import { Modal } from 'react-bootstrap';
 
 export default function Card(props) {
   let dispatch = useDispatchCart();
@@ -9,6 +10,11 @@ export default function Card(props) {
   let priceOptions= Object.keys(options);
   const [qty, setQty] = useState(1)
   const [size, setSize] = useState("")
+  const [show, setShow] = useState(false);
+  const [modalData, setModalData] = useState(null);
+
+  const handleClose = () => setShow(false);
+  const handleShow = () => setShow(true);
 
   const handleAddToCart = async () => {
     let food = []
@@ -28,7 +34,7 @@ export default function Card(props) {
       }
       else if (food.size !== size) {
         await dispatch({ type: "ADD", id: props.foodItem._id, name: props.foodItem.name, price: finalPrice, qty: qty, size: size, })
-        console.log("Size different so simply ADD one more to the list")
+        //console.log("Size different so simply ADD one more to the list")
         return
       }
       return
@@ -42,8 +48,19 @@ export default function Card(props) {
   let finalPrice = qty * parseInt(options[size]);
   
   useEffect(()=>{
-    setSize(priceRef.current.value)
-  },[])
+    setSize(priceRef.current.value);
+
+    fetch(`http://localhost:5000/api/foodData/${props.foodItem._id}`) // Replace with your actual API endpoint URL
+      .then((response) => response.json())
+      .then((data) => {
+        setModalData(data);
+      })
+      .catch((error) => {
+        console.error("Failed to fetch modal data:", error);
+      });
+  }, [props.foodItem._id]);
+
+  
   return (
     // <div>
     //   <div>
@@ -97,7 +114,7 @@ export default function Card(props) {
     //   </div>
     // </div>
     <div className="card_main_container"> 
-        <span><img src={props.foodItem.img} className="card-img-top" alt="..." style={{ height:"10rem",  objectFit:"cover"}}/> </span>
+        <span><img src={props.foodItem.img} className="card-img-top" alt="..." style={{ height:"10rem",  objectFit:"cover"}} onClick={handleShow}/> </span>
       <div className="card_main_inner">
         <span className="card_main_header">
         <h5 className="card-title item_food_card_title">{props.foodItem.name}</h5>
@@ -132,6 +149,20 @@ export default function Card(props) {
         <button className={'btn btn-warning justify-center'} onClick={handleAddToCart}>Add to Cart</button>
         </div>
       </div>
+      <Modal show={show}>
+        <Modal.Header closeButton>
+          <Modal.Title>{modalData?.name}</Modal.Title>
+        </Modal.Header>
+
+        <Modal.Body>
+          <p>{modalData?.description}</p>
+          <img src={modalData?.image} alt="Modal Image" />
+        </Modal.Body>
+
+        <Modal.Footer>
+          <button className="btn" onClick= {handleClose}>CLOSE</button>
+        </Modal.Footer>
+      </Modal>
     </div>
   );
 }

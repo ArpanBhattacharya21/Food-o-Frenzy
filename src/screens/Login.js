@@ -1,7 +1,8 @@
 import React, { useState } from 'react'
 import { Link, useNavigate } from "react-router-dom";
 import Navbar from '../components/Navbar';
-import { Toast } from 'react-bootstrap';
+import { toast, ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.min.css';
 
 export default function Login() {
   const [credentials, setcredentials] = useState({ email: "", password: "" })
@@ -21,12 +22,17 @@ export default function Login() {
     console.log(json);
 
     if (!json.success) {
-      alert("Enter valid credentials!");
+      //alert("Enter valid credentials!");
+      toast.error("Invalid credentials!");
     }
     if (json.success) {
       localStorage.setItem("userEmail", credentials.email);
       localStorage.setItem("authToken", json.authToken);
-      navigate("/");
+      toast.success("Login successful!");
+      //navigate("/");
+      setTimeout(() => {
+        navigate('/');
+      }, 2000);
     }
 
   }
@@ -37,27 +43,82 @@ export default function Login() {
   }
 
   return (
-    <div style={{backgroundImage: 'url("https://images.pexels.com/photos/326278/pexels-photo-326278.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")', height: '100vh', backgroundSize: 'cover' }}>
-      <div style={{"paddingTop":"6rem"}}>
+    <div
+      style={{
+        backgroundImage:
+          'url("https://images.pexels.com/photos/326278/pexels-photo-326278.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")',
+        height: "100vh",
+        backgroundSize: "cover",
+      }}
+    >
+      <div style={{ paddingTop: "6rem" }}>
         <Navbar />
       </div>
-      <div className='container'>
-        <form className='w-50 m-auto mt-5 border bg-dark bg-opacity-75 border-success rounded'  onSubmit={handleSubmit}>
+      <div className="container">
+        <form
+          className="w-50 m-auto mt-5 border bg-dark bg-opacity-75 border-success rounded"
+          onSubmit={handleSubmit}
+        >
           <div className="m-3">
-            <label htmlFor="exampleInputEmail1" className="form-label"> Email address </label>
-            <input type="email" className="form-control" name='email' value={credentials.email} onChange={onChange} id="exampleInputEmail1" aria-describedby="emailHelp" placeholder='e.g. johndoe@hotmail.com'/>
-            <div id="emailHelp" className="form-text"> We'll never share your email with anyone else. </div>
+            <label htmlFor="exampleInputEmail1" className="form-label">
+              {" "}
+              Email address{" "}
+            </label>
+            <input
+              type="email"
+              className="form-control"
+              name="email"
+              value={credentials.email}
+              onChange={onChange}
+              id="exampleInputEmail1"
+              aria-describedby="emailHelp"
+              placeholder="e.g. johndoe@hotmail.com"
+            />
+            <div id="emailHelp" className="form-text">
+              {" "}
+              We'll never share your email with anyone else.{" "}
+            </div>
           </div>
 
           <div className="m-3">
-            <label htmlFor="exampleInputPassword1" className="form-label"> Password </label>
-            <input type="password" className="form-control" name='password' value={credentials.password} onChange={onChange} id="exampleInputPassword1" placeholder='eg. qwerty@1234'/>
+            <label htmlFor="exampleInputPassword1" className="form-label">
+              {" "}
+              Password{" "}
+            </label>
+            <input
+              type="password"
+              className="form-control"
+              name="password"
+              value={credentials.password}
+              onChange={onChange}
+              id="exampleInputPassword1"
+              placeholder="eg. qwerty@1234"
+            />
           </div>
 
-          <button type="submit" className="m-3 btn btn-success"> Submit </button>
-          <Link to="/createuser" className='m-3 btn btn-danger'>I'm not registered yet!</Link>
+          <button type="submit" className="m-3 btn btn-success">
+            {" "}
+            Submit{" "}
+          </button>
+          <Link to="/createuser" className="m-3 btn btn-danger">
+            I'm not registered yet!
+          </Link>
         </form>
       </div>
+      <div>
+        <ToastContainer
+          position="bottom-center"
+          autoClose={5000}
+          hideProgressBar={false}
+          newestOnTop={false}
+          closeOnClick
+          rtl={false}
+          pauseOnFocusLoss
+          draggable
+          pauseOnHover
+          theme="light"
+        />
+      </div>
     </div>
-  )
+  );
 }
