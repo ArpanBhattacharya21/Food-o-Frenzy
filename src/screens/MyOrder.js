@@ -31,6 +31,7 @@ export default function MyOrder() {
             <div>
                 <Navbar />
             </div>
+            <div style={{"paddingTop":"6rem"}}></div>
 
             <div className='container'>
                 <div className='row'>

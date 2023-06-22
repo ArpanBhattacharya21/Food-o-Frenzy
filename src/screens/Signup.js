@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import Navbar from '../components/Navbar';
+import { toast, ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.min.css';
 export default function Signup() {
     const [credentials, setcredentials] = useState({name:"",email:"",password:"",geolocation:""})
     let navigate = useNavigate()
@@ -19,12 +21,17 @@ export default function Signup() {
         console.log(json);
 
         if(!json.success){
-            alert("Enter valid credentials!");
+            //alert("Enter valid credentials!");
+            toast.warning("Enter Valid Credentials!")
         }
 
         if(json.success){
-            alert(credentials.name + " is registered!!");
-            navigate("/");
+            //alert(credentials.name + " is registered!!");
+            toast.success(credentials.name + " is registered!");
+            //navigate("/");
+            setTimeout(() => {
+              navigate('/');
+            }, 2000);
         }
 
 
@@ -68,6 +75,20 @@ export default function Signup() {
         <button type="submit" className="m-3 btn btn-success"> Submit </button>
         <Link to="/login" className='m-3 btn btn-danger'>Already a user?</Link>
       </form>
+      </div>
+      <div>
+        <ToastContainer
+          position="bottom-center"
+          autoClose={5000}
+          hideProgressBar={false}
+          newestOnTop={false}
+          closeOnClick
+          rtl={false}
+          pauseOnFocusLoss
+          draggable
+          pauseOnHover
+          theme="light"
+        />
       </div>
     </div>
   );
