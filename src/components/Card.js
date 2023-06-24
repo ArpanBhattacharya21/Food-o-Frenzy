@@ -150,17 +150,18 @@ export default function Card(props) {
         </div>
       </div>
       <Modal show={show}>
-        <Modal.Header closeButton>
-          <Modal.Title>{modalData?.name}</Modal.Title>
+        <Modal.Header closeButton onClick={handleClose}>
+          <Modal.Title>{props.foodItem?.name}</Modal.Title>
         </Modal.Header>
 
         <Modal.Body>
-          <p>{modalData?.description}</p>
-          <img src={modalData?.image} alt="Modal Image" />
+          <img src={props.foodItem?.img} width={'100%'} height={300} alt="Modal Image" />
+          <p></p>
+          <p>{props?.desc}</p>
         </Modal.Body>
 
         <Modal.Footer>
-          <button className="btn" onClick= {handleClose}>CLOSE</button>
+          <button className="btn btn-warning" onClick= {handleClose}>CLOSE</button>
         </Modal.Footer>
       </Modal>
     </div>
