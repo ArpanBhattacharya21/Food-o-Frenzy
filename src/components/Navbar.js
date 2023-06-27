@@ -34,33 +34,35 @@ export default function Navbar() {
 
   return (
     <div>
-      <nav class="navbar navbar-expand-lg navbar-dark bg-warning fixed-top">
-        <div class="container-fluid">
-          <Link class="navbar-brand fs-2 navFont" style={{"color":"#800020"}} to="/">
+      <nav className="navbar navbar-expand-lg navbar-dark bg-warning fixed-top">
+        <div className="container-fluid">
+          <Link className="navbar-brand fs-2 navFont" style={{"color":"#800020"}} to="/">
             <img src={brand} alt="logo" width="70px" height=""/>Food-o-Frenzy
           </Link>
+          
           <button
-            class="navbar-toggler"
+            className="navbar-toggler"
             type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarNav"
-            aria-controls="navbarNav"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
+            onClick={(e) => {
+              const ele = document.getElementById("navbarNav");
+              if (ele.classList.contains("show"))
+              return ele.classList.remove("show")
+              ele.classList.add("show")
+            }}
           >
-            <span class="navbar-toggler-icon"></span>
+            <span className="navbar-toggler-icon"></span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav me-auto mb-1">
-              <li class="nav-item">
-                <Link class="nav-link active fs-4" aria-current="page" to="/">
+          <div className="collapse navbar-collapse " id="navbarNav">
+            <ul className="navbar-nav me-auto mb-1">
+              <li className="nav-item">
+                <Link className="nav-link active fs-4" aria-current="page" to="/">
                   Home
                 </Link>
               </li>
               
               { localStorage.getItem("authToken") ? (
-                <li class="nav-item">
-                  <Link class="nav-link active fs-4" aria-current="page" to="/myOrder"> My Orders </Link>
+                <li className="nav-item">
+                  <Link className="nav-link active fs-4" aria-current="page" to="/myOrder"> My Orders </Link>
                 </li>
               ) : (
                 ""
