@@ -27,6 +27,16 @@ export default function Home() {
   useEffect(()=>{
     loadData()
   },[])
+
+  const getFilteredCategories = () => {
+    return foodCat.filter((category) =>
+    foodItem.some(
+      (item) =>
+        item.CategoryName === category.CategoryName &&
+        item.name.toLowerCase().includes(search.toLowerCase())
+    )
+  );
+  };
   return (
     <div>
       <div>
@@ -45,12 +55,6 @@ export default function Home() {
             <div className="carousel-caption" style={{ zIndex: "10" }}>
               <div className="d-flex justify-content-center">
                 <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" value={search} onChange={(e)=>{setSearch(e.target.value)}}/>
-                {/* <button
-                  className="btn btn-outline-success text-white bg-success"
-                  type="submit"
-                >
-                  Search
-                </button> */}
               </div>
             </div>
 
@@ -137,7 +141,7 @@ export default function Home() {
       <div className='container'>
         {
           foodCat !==[]
-          ? foodCat?.map((data)=>{
+          ? getFilteredCategories().map((data)=>{
             return ( <div className='row mb-3'>
             <div key={data._id} className="fs-3 m-3">{data.CategoryName}</div>
             <hr/>
