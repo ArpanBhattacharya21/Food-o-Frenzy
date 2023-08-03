@@ -1,2 +1,0 @@
-# Food-o-Frenzy Screenshots
-
